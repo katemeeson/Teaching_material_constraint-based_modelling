@@ -1,0 +1,1674 @@
+Component,g/L,reaction,lb,ub
+-1.0 benzo[a]pyrene <-->,0,HMR_7108,0,1000
+-1.0 naphthalene <-->,0,HMR_7110,0,1000
+-1.0 aflatoxin B1 <-->,0,HMR_7112,0,1000
+-1.0 trichloroethene <-->,0,HMR_7114,0,1000
+-1.0 bromobenzene <-->,0,HMR_7116,0,1000
+"-1.0 7,12-dimethylbenz[a]anthracene <-->",0,HMR_7118,0,1000
+-1.0 4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone <-->,0,HMR_7120,0,1000
+-1.0 1-nitronaphthalene <-->,0,HMR_7122,0,1000
+"-1.0 1,1-dichloroethylene <-->",0,HMR_7124,0,1000
+"-1.0 1,2-dibromoethane <-->",0,HMR_7126,0,1000
+-1.0 TAG-extraction <-->,0,HMR_9023,0,1000
+-1.0 chylomicron <-->,0,HMR_9024,0,1000
+-1.0 SMCFA-blood-pool <-->,0,HMR_9032,0,1000
+-1.0 propanoate <-->,0,HMR_9808,0,1000
+-1.0 butyrate <-->,0,HMR_9809,0,1000
+-1.0 valeric acid <-->,0,HMR_9810,0,1000
+-1.0 hexanoic acid <-->,0,HMR_9811,0,1000
+-1.0 heptylic acid <-->,0,HMR_9812,0,1000
+-1.0 octanoic acid <-->,0,HMR_9813,0,1000
+-1.0 nonanoic acid <-->,0,HMR_9814,0,1000
+-1.0 decanoic acid <-->,0,HMR_9815,0,1000
+-1.0 undecylic acid <-->,0,HMR_9816,0,1000
+-1.0 NEFA blood pool in <-->,0,HMR_9033,0,1000
+-1.0 glucose <-->,3.151,HMR_9034,-3.151,1000
+-1.0 linoleate <-->,4.20E-05,HMR_9035,-4.20E-05,1000
+-1.0 linolenate <-->,0,HMR_9036,0,1000
+-1.0 phytanic acid <-->,0,HMR_9037,0,1000
+-1.0 histidine <-->,0.03148,HMR_9038,-0.03148,1000
+-1.0 isoleucine <-->,0.05447,HMR_9039,-0.05447,1000
+-1.0 leucine <-->,0.05905,HMR_9040,-0.05905,1000
+-1.0 lysine <-->,0.09125,HMR_9041,-0.09125,1000
+-1.0 methionine <-->,0.01724,HMR_9042,-0.01724,1000
+-1.0 phenylalanine <-->,0.03548,HMR_9043,-0.03548,1000
+-1.0 threonine <-->,0.05345,HMR_9044,-0.05345,1000
+-1.0 tryptophan <-->,0.00902,HMR_9045,-0.00902,1000
+-1.0 valine <-->,0.05285,HMR_9046,-0.05285,1000
+-1.0 H2O <-->,0,HMR_9047,0,1000
+-1.0 O2 <-->,0,HMR_9048,0,1000
+-1.0 VLDL <-->,0,HMR_9049,0,1000
+-1.0 HDL <-->,0,HMR_9050,0,1000
+-1.0 LDL <-->,0,HMR_9051,0,1000
+-1.0 chylomicron remnant <-->,0,HMR_9052,0,1000
+-1.0 VLDL remnant <-->,0,HMR_9053,0,1000
+-1.0 HDL remnant <-->,0,HMR_9054,0,1000
+-1.0 LDL remnant <-->,0,HMR_9055,0,1000
+-1.0 NEFA blood pool out <-->,0,HMR_9056,0,1000
+-1.0 CO2 <-->,0,HMR_9058,0,1000
+-1.0 alanine <-->,0.00445,HMR_9061,-0.00445,1000
+-1.0 asparagine <-->,0.0075,HMR_9062,-0.0075,1000
+-1.0 glutamine <-->,0.365,HMR_9063,-0.365,1000
+-1.0 tyrosine <-->,0.05579,HMR_9064,-0.05579,1000
+-1.0 cysteine <-->,0.03129,HMR_9065,-0.03129,1000
+-1.0 arginine <-->,0.1475,HMR_9066,-0.1475,1000
+-1.0 glycine <-->,0.01875,HMR_9067,-0.01875,1000
+-1.0 proline <-->,0.01725,HMR_9068,-0.01725,1000
+-1.0 serine <-->,0.02625,HMR_9069,-0.02625,1000
+-1.0 aspartate <-->,0.00665,HMR_9070,-0.00665,1000
+-1.0 glutamate <-->,0.00735,HMR_9071,-0.00735,1000
+-1.0 Pi <-->,0,HMR_9072,0,1000
+-1.0 NH3 <-->,0,HMR_9073,0,1000
+-1.0 sulfate <-->,0,HMR_9074,0,1000
+-1.0 urate <-->,0,HMR_9075,0,1000
+-1.0 Fe2+ <-->,0,HMR_9076,0,1000
+-1.0 Na+ <-->,0,HMR_9077,0,1000
+-1.0 HCO3- <-->,0,HMR_9078,0,1000
+-1.0 H+ <-->,0,HMR_9079,0,1000
+-1.0 zinc <-->,0,HMR_9080,0,1000
+-1.0 K+ <-->,0,HMR_9081,0,1000
+-1.0 Ca2+ <-->,0,HMR_9082,0,1000
+-1.0 choline <-->,0.00898,HMR_9083,-0.00898,1000
+-1.0 ethanolamine <-->,0,HMR_9084,0,1000
+-1.0 glycerol <-->,0,HMR_9085,0,1000
+-1.0 acetate <-->,0,HMR_9086,0,1000
+-1.0 ornithine <-->,0,HMR_9087,0,1000
+-1.0 sulfite <-->,0,HMR_9088,0,1000
+-1.0 phospholipids extracellular pool <-->,0,HMR_9089,0,1000
+-1.0 methylimidazoleacetic acid <-->,0,HMR_9090,0,1000
+-1.0 4-aminobutyrate <-->,0,HMR_9091,0,1000
+-1.0 dopamine <-->,0,HMR_9092,0,1000
+-1.0 noradrenaline <-->,0,HMR_9093,0,1000
+-1.0 5-hydroxy-L-tryptophan <-->,0,HMR_9094,0,1000
+-1.0 adrenaline <-->,0,HMR_9095,0,1000
+-1.0 Fe3+ <-->,0,HMR_9096,0,1000
+-1.0 D-aspartate <-->,0,HMR_9097,0,1000
+-1.0 D-alanine <-->,0,HMR_9098,0,1000
+-1.0 ethanol <-->,0,HMR_9099,0,1000
+-1.0 5-formyl-THF <-->,0,HMR_9100,0,1000
+-1.0 PNP <-->,0,HMR_9101,0,1000
+-1.0 lactose <-->,0,HMR_9102,0,1000
+-1.0 H2S <-->,0,HMR_9103,0,1000
+-1.0 1-methylnicotinamide <-->,0,HMR_9104,0,1000
+-1.0 thiamin-P <-->,0,HMR_9105,0,1000
+-1.0 thiamin-PPP <-->,0,HMR_9106,0,1000
+-1.0 heme <-->,1000,HMR_9107,-1000,1000
+-1.0 dihydroneopterin <-->,0,HMR_9108,0,1000
+-1.0 biotin <-->,3.50E-06,HMR_9109,-3.50E-06,1000
+-1.0 biocytin <-->,0,HMR_9110,0,1000
+-1.0 heparan sulfate proteoglycan <-->,0,HMR_9111,0,1000
+-1.0 keratan sulfate I <-->,0,HMR_9113,0,1000
+"-1.0 keratan sulfate I, degradation product 1 <-->",0,HMR_9114,0,1000
+-1.0 keratan sulfate II (core 2-linked) <-->,0,HMR_9115,0,1000
+-1.0 keratan sulfate II (core 4-linked) <-->,0,HMR_9116,0,1000
+-1.0 chondroitin sulfate A (GalNAc4S-GlcA) proteoglycan <-->,0,HMR_9117,0,1000
+-1.0 chondroitin sulfate B - dermatan sulfate (IdoA2S-GalNAc4S) proteoglycan <-->,0,HMR_9118,0,1000
+-1.0 chondroitin sulfate C (GalNAc6S-GlcA) proteoglycan <-->,0,HMR_9119,0,1000
+-1.0 chondroitin sulfate D (GlcNAc6S-GlcA2S) proteoglycan <-->,0,HMR_9120,0,1000
+"-1.0 chondroitin sulfate E (GalNAc4,6diS-GlcA) proteoglycan <-->",0,HMR_9121,0,1000
+-1.0 hyaluronate <-->,0,HMR_9122,0,1000
+"-1.0 hyaluronan biosynthesis, precursor 1 <-->",0,HMR_9123,0,1000
+-1.0 de-Fuc form of PA6 <-->,0,HMR_9124,0,1000
+-1.0 PA6 <-->,0,HMR_9125,0,1000
+-1.0 n2m2nmasn <-->,0,HMR_9126,0,1000
+-1.0 sialyl-Tn antigen <-->,0,HMR_9127,0,1000
+-1.0 disialyl-T antigen <-->,0,HMR_9128,0,1000
+-1.0 estradiol-17beta 3-glucuronide <-->,0,HMR_9129,0,1000
+-1.0 LPL <-->,0,HMR_9130,0,1000
+-1.0 sarcosine <-->,0,HMR_9131,0,1000
+-1.0 acetoacetate <-->,0,HMR_9132,0,1000
+-1.0 pyruvate <-->,0,HMR_9133,0,1000
+-1.0 (R)-3-hydroxybutanoate <-->,0,HMR_9134,0,1000
+-1.0 L-lactate <-->,0,HMR_9135,0,1000
+-1.0 D-lactate <-->,0,HMR_9136,0,1000
+-1.0 mannose <-->,0,HMR_9137,0,1000
+-1.0 xylitol <-->,0,HMR_9138,0,1000
+-1.0 fructose <-->,0,HMR_9139,0,1000
+-1.0 galactose <-->,0,HMR_9140,0,1000
+-1.0 ADP-ribose <-->,0,HMR_9141,0,1000
+-1.0 nicotinate <-->,0,HMR_9142,0,1000
+-1.0 riboflavin <-->,0.000219,HMR_9143,-0.000219,1000
+-1.0 pyridoxine <-->,0.002013,HMR_9144,-0.002013,1000
+-1.0 pantothenate <-->,0.00224,HMR_9145,-0.00224,1000
+-1.0 folate <-->,0.00265,HMR_9146,-0.00265,1000
+-1.0 retinol <-->,0,HMR_9147,0,1000
+-1.0 iodide <-->,0,HMR_9148,0,1000
+-1.0 nitrite <-->,0,HMR_9149,0,1000
+-1.0 chloride <-->,0,HMR_9150,0,1000
+-1.0 alpha-tocopherol <-->,0,HMR_9151,0,1000
+-1.0 alpha-tocotrienol <-->,1000,HMR_9152,-1000,1000
+-1.0 gamma-tocopherol <-->,0,HMR_9153,0,1000
+-1.0 gamma-tocotrienol <-->,1000,HMR_9154,-1000,1000
+-1.0 ITP <-->,0,HMR_9155,0,1000
+-1.0 dITP <-->,0,HMR_9156,0,1000
+-1.0 hemoglobin <-->,0,HMR_9157,0,1000
+-1.0 ascorbate <-->,0,HMR_9158,0,1000
+-1.0 thiamin <-->,0.00217,HMR_9159,-0.00217,1000
+-1.0 hydrogen-cyanide <-->,0,HMR_9160,0,1000
+-1.0 homoserine <-->,0,HMR_9161,0,1000
+-1.0 lepidimoide <-->,0,HMR_9162,0,1000
+-1.0 leukotriene F4 <-->,0,HMR_9163,0,1000
+-1.0 malonate <-->,0,HMR_9164,0,1000
+-1.0 oxalate <-->,0,HMR_9165,0,1000
+-1.0 chitin-component <-->,0,HMR_9166,0,1000
+-1.0 lipoic acid <-->,0.000105,HMR_9167,-0.000105,1000
+-1.0 glucosamine <-->,0,HMR_9168,0,1000
+-1.0 selenate <-->,0,HMR_9169,0,1000
+-1.0 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine <-->,0,HMR_9171,0,1000
+-1.0 1-organyl-2-lyso-sn-glycero-3-phosphocholine <-->,0,HMR_9172,0,1000
+-1.0 citrulline <-->,0,HMR_9201,0,1000
+-1.0 apoC-lys <-->,0,HMR_9202,0,1000
+-1.0 D-xylose <-->,0,HMR_9203,0,1000
+-1.0 glycophosphatidylinositol-(GPI)-anchored-protein-precursor <-->,0,HMR_9204,0,1000
+-1.0 10-formyl-THF <-->,0,HMR_9205,0,1000
+-1.0 10-formyl-THF-glu(5) <-->,0,HMR_9206,0,1000
+-1.0 10-formyl-THF-glu(6) <-->,0,HMR_9207,0,1000
+-1.0 10-formyl-THF-glu(7) <-->,0,HMR_9208,0,1000
+-1.0 fatty acid pool <-->,0,HMR_9209,0,1000
+-1.0 13-cis-retinoyl-glucuronide <-->,0,HMR_9210,0,1000
+"-1.0 24R,25-dihyoxyvitamin D2 <-->",0,HMR_9211,0,1000
+"-1.0 (24R)-24,25-dihydroxycalciol <-->",0,HMR_9212,0,1000
+-1.0 4-nitrocatechol <-->,0,HMR_9213,0,1000
+-1.0 25-hydroxyvitamin D2 <-->,0,HMR_9214,0,1000
+-1.0 calcidiol <-->,0,HMR_9215,0,1000
+-1.0 2-hydroxybutyrate <-->,0,HMR_9216,0,1000
+-1.0 2-methylcitrate <-->,0,HMR_9217,0,1000
+"-1.0 3,4-dihydroxyphenylethyleneglycol <-->",0,HMR_9218,0,1000
+-1.0 L-dopa <-->,0,HMR_9219,0,1000
+-1.0 cGMP <-->,0,HMR_9220,0,1000
+-1.0 L-3-amino-isobutanoate <-->,0,HMR_9221,0,1000
+-1.0 D-3-amino-isobutanoate <-->,0,HMR_9222,0,1000
+-1.0 4-hydroxy-debrisoquine <-->,0,HMR_9223,0,1000
+-1.0 4-hydroxyphenylacetate <-->,0,HMR_9224,0,1000
+-1.0 isocaproic-aldehyde <-->,0,HMR_9225,0,1000
+-1.0 4-hydroxy-tolbutamide <-->,0,HMR_9226,0,1000
+-1.0 4-nitrophenyl-sulfate <-->,0,HMR_9227,0,1000
+-1.0 4-pyridoxate <-->,0,HMR_9228,0,1000
+-1.0 5-alpha-dihydrotestosterone <-->,0,HMR_9229,0,1000
+-1.0 5alpha-dihydrotestosterone-glucuronide <-->,0,HMR_9230,0,1000
+-1.0 5alpha-dihydrotestosterone-sulfate <-->,0,HMR_9231,0,1000
+-1.0 pentaglutamyl-folate(DHF) <-->,0,HMR_9232,0,1000
+-1.0 5-hydroxy-omeprazole <-->,0,HMR_9233,0,1000
+-1.0 5-methyl-THF <-->,0,HMR_9234,0,1000
+-1.0 pentaglutamyl-folate(THF) <-->,0,HMR_9235,0,1000
+-1.0 hexaglutamyl-folate(DHF) <-->,0,HMR_9236,0,1000
+-1.0 6beta-hydroxytestosterone <-->,0,HMR_9237,0,1000
+-1.0 hexaglutamyl-folate(THF) <-->,0,HMR_9238,0,1000
+-1.0 heptaglutamyl-folate(DHF) <-->,0,HMR_9239,0,1000
+-1.0 heptaglutamyl-folate(THF) <-->,0,HMR_9240,0,1000
+-1.0 L-arabitol <-->,0,HMR_9241,0,1000
+-1.0 acetaldehyde <-->,0,HMR_9242,0,1000
+-1.0 acetone <-->,0,HMR_9243,0,1000
+-1.0 type III A glycolipid <-->,0,HMR_9244,0,1000
+-1.0 type IIIAb <-->,0,HMR_9245,0,1000
+-1.0 N-acetylglucosamine <-->,0,HMR_9246,0,1000
+-1.0 acetylcholine <-->,0,HMR_9247,0,1000
+"-1.0 sialyl(1,3)-sialyl(2,6)-galactosylgloboside <-->",0,HMR_9248,0,1000
+"-1.0 sialyl(2,3)-sialyl(2,6)-galactosylgloboside <-->",0,HMR_9249,0,1000
+"-1.0 3,8-LD1 <-->",0,HMR_9250,0,1000
+-1.0 disialylgalactosylgloboside <-->,0,HMR_9251,0,1000
+-1.0 VI3NeuAc-nLc6Cer <-->,0,HMR_9252,0,1000
+-1.0 adenine <-->,0,HMR_9253,0,1000
+-1.0 adenosine <-->,0,HMR_9254,0,1000
+-1.0 ADP <-->,0,HMR_9255,0,1000
+-1.0 ADP-ribose-2-phosphate <-->,0,HMR_9256,0,1000
+-1.0 etiocholan-3alpha-ol-17-one 3-glucuronide <-->,0,HMR_9257,0,1000
+-1.0 1-alkyl-2-lysoglycerol-3-phosphocholine <-->,0,HMR_9258,0,1000
+-1.0 AKG <-->,0,HMR_9259,0,1000
+-1.0 beta-alanine <-->,0,HMR_9260,0,1000
+-1.0 aldosterone <-->,0,HMR_9261,0,1000
+-1.0 AMP <-->,0,HMR_9262,0,1000
+-1.0 androsterone <-->,0,HMR_9263,0,1000
+-1.0 androsterone-glucuronide <-->,0,HMR_9264,0,1000
+-1.0 antipyrine <-->,0,HMR_9265,0,1000
+-1.0 alpha-pinene-oxide <-->,0,HMR_9266,0,1000
+-1.0 (+)-alpha-pinene <-->,0,HMR_9267,0,1000
+-1.0 20alpha-hydroxy-4-pregnen-3-one <-->,0,HMR_9268,0,1000
+-1.0 aquacob(III)alamin <-->,1000,HMR_9269,-1000,1000
+-1.0 L-arabinose <-->,0,HMR_9270,0,1000
+-1.0 bilirubin-bisglucuronoside <-->,0,HMR_9271,0,1000
+-1.0 bilirubin-monoglucuronoside <-->,0,HMR_9272,0,1000
+-1.0 bilirubin <-->,0,HMR_9273,0,1000
+-1.0 cAMP <-->,0,HMR_9275,0,1000
+-1.0 beta-carotene <-->,0,HMR_9276,0,1000
+-1.0 (-)-trans-carveol <-->,0,HMR_9277,0,1000
+-1.0 calcitroic acid <-->,0,HMR_9278,0,1000
+-1.0 cys-gly <-->,0,HMR_9279,0,1000
+-1.0 cholate <-->,0,HMR_9280,0,1000
+-1.0 glycocholate <-->,0,HMR_9281,0,1000
+-1.0 taurocholate <-->,0,HMR_9282,0,1000
+-1.0 glycochenodeoxycholate <-->,0,HMR_9283,0,1000
+-1.0 taurochenodeoxycholate <-->,0,HMR_9284,0,1000
+-1.0 cholesterol <-->,0,HMR_9285,0,1000
+-1.0 citrate <-->,0,HMR_9286,0,1000
+-1.0 CMP <-->,0,HMR_9287,0,1000
+-1.0 CO <-->,0,HMR_9288,0,1000
+-1.0 coumarin <-->,0,HMR_9289,0,1000
+-1.0 creatine <-->,0,HMR_9290,0,1000
+-1.0 cytosine <-->,0,HMR_9291,0,1000
+-1.0 L-carnitine <-->,0,HMR_9292,0,1000
+-1.0 cortisol <-->,0,HMR_9293,0,1000
+-1.0 corticosterone <-->,0,HMR_9294,0,1000
+-1.0 cytidine <-->,0,HMR_9295,0,1000
+-1.0 deoxycytidine <-->,0,HMR_9296,0,1000
+-1.0 deoxyadenosine <-->,0,HMR_9297,0,1000
+-1.0 5-deoxyadenosine <-->,0,HMR_9298,0,1000
+-1.0 debrisoquin <-->,0,HMR_9299,0,1000
+-1.0 deoxyguanosine <-->,0,HMR_9300,0,1000
+-1.0 dehydroascorbic acid <-->,0,HMR_9301,0,1000
+-1.0 dehydroepiandrosterone sulfate <-->,0,HMR_9302,0,1000
+-1.0 dihydrofolate <-->,0,HMR_9303,0,1000
+-1.0 digalactosylceramidesulfate <-->,0,HMR_9304,0,1000
+-1.0 deoxyinosine <-->,0,HMR_9305,0,1000
+-1.0 edaravone <-->,0,HMR_9306,0,1000
+"-1.0 2,6-dimethylheptanoyl-carnitine <-->",0,HMR_9307,0,1000
+-1.0 dopamine-3-O-sulfate <-->,0,HMR_9308,0,1000
+-1.0 deoxyribose <-->,0,HMR_9309,0,1000
+-1.0 deoxyuridine <-->,0,HMR_9310,0,1000
+"-1.0 aflatoxin B1-exo-8,9-epoxide <-->",0,HMR_9311,0,1000
+-1.0 ebastine <-->,0,HMR_9312,0,1000
+-1.0 hydroxylated-ebastine <-->,0,HMR_9313,0,1000
+-1.0 estradiol-17beta <-->,0,HMR_9314,0,1000
+-1.0 16-glucuronide-estriol <-->,0,HMR_9315,0,1000
+-1.0 estrone-glucuronide <-->,0,HMR_9316,0,1000
+-1.0 estrone 3-sulfate <-->,0,HMR_9317,0,1000
+-1.0 formate <-->,0,HMR_9318,0,1000
+-1.0 III3Fuc-nLc6Cer <-->,0,HMR_9319,0,1000
+-1.0 glycolipid <-->,0,HMR_9320,0,1000
+-1.0 fucacgalfucgalacglcgalgluside heparan sulfate <-->,0,HMR_9321,0,1000
+"-1.0 IV3NeuAc,III3Fuc-nLc4Cer <-->",0,HMR_9322,0,1000
+"-1.0 IV3Neu5Ac,III4Fuc-Lc4Cer <-->",0,HMR_9323,0,1000
+-1.0 fucfuc132galacglcgal14acglcgalgluside heparan sulfate <-->,0,HMR_9324,0,1000
+-1.0 fucfucfucgalacglc13galacglcgal14acglcgalgluside heparan sulfate <-->,0,HMR_9325,0,1000
+-1.0 fucfucfucgalacglcgal14acglcgalgluside heparan sulfate <-->,0,HMR_9326,0,1000
+-1.0 lacto-N-fucopentaosyl-III-ceramide <-->,0,HMR_9327,0,1000
+-1.0 fucgalfucgalacglcgalgluside heparan sulfate <-->,0,HMR_9328,0,1000
+-1.0 fucosyl-galactosylgloboside <-->,0,HMR_9329,0,1000
+-1.0 6-deoxy-L-galactose <-->,0,HMR_9330,0,1000
+-1.0 gal-glcnac-gal-globoside <-->,0,HMR_9331,0,1000
+-1.0 galfuc12gal14acglcgalgluside heparan sulfate <-->,0,HMR_9332,0,1000
+-1.0 galfucgalacglcgal14acglcgalgluside heparan sulfate <-->,0,HMR_9333,0,1000
+-1.0 galgalfucfucgalacglcgalacglcgal14acglcgalgluside heparan sulfate <-->,0,HMR_9334,0,1000
+-1.0 galgalgalthcrm heparan sulfate <-->,0,HMR_9335,0,1000
+-1.0 globoside <-->,0,HMR_9336,0,1000
+-1.0 GD1beta <-->,0,HMR_9337,0,1000
+-1.0 (5-L-glutamyl)-L-amino acid <-->,0,HMR_9338,0,1000
+-1.0 GD1c <-->,0,HMR_9339,0,1000
+-1.0 GDP <-->,0,HMR_9340,0,1000
+-1.0 betaine <-->,0,HMR_9341,0,1000
+-1.0 glycerate <-->,0,HMR_9342,0,1000
+-1.0 GMP <-->,0,HMR_9343,0,1000
+-1.0 GP1c <-->,0,HMR_9344,0,1000
+-1.0 GP1calpha <-->,0,HMR_9345,0,1000
+-1.0 GQ1b <-->,0,HMR_9346,0,1000
+-1.0 GQ1balpha <-->,0,HMR_9347,0,1000
+-1.0 guanosine <-->,0,HMR_9348,0,1000
+-1.0 GT1a <-->,0,HMR_9349,0,1000
+-1.0 GSSG <-->,0,HMR_9350,0,1000
+-1.0 GSH <-->,0,HMR_9351,0,1000
+-1.0 GTP <-->,0,HMR_9352,0,1000
+-1.0 guanine <-->,0,HMR_9353,0,1000
+-1.0 H2O2 <-->,0,HMR_9354,0,1000
+-1.0 4-hydroxy-17beta-estradiol <-->,0,HMR_9355,0,1000
+-1.0 umbelliferone <-->,0,HMR_9356,0,1000
+-1.0 6-hydroxypaclitaxel <-->,0,HMR_9357,0,1000
+-1.0 hypoxanthine <-->,0.00239,HMR_9358,-0.00239,1000
+-1.0 IDP <-->,0,HMR_9359,0,1000
+-1.0 IMP <-->,0,HMR_9360,0,1000
+-1.0 inositol <-->,0.0126,HMR_9361,-0.0126,1000
+-1.0 inosine <-->,0,HMR_9362,0,1000
+-1.0 cystine <-->,0,HMR_9363,0,1000
+-1.0 leukotriene A4 <-->,0,HMR_9364,0,1000
+-1.0 leukotriene B4 <-->,0,HMR_9365,0,1000
+-1.0 leukotriene C4 <-->,0,HMR_9366,0,1000
+-1.0 LTD4 <-->,0,HMR_9367,0,1000
+-1.0 leukotriene E4 <-->,0,HMR_9368,0,1000
+-1.0 limonene <-->,0,HMR_9369,0,1000
+-1.0 maltose <-->,0,HMR_9370,0,1000
+-1.0 maltotriose <-->,0,HMR_9371,0,1000
+-1.0 methanol <-->,0,HMR_9372,0,1000
+-1.0 L-metanephrine <-->,0,HMR_9373,0,1000
+-1.0 3-mercaptolactate-cysteine-disulfide <-->,0,HMR_9374,0,1000
+-1.0 methylglyoxal <-->,0,HMR_9375,0,1000
+-1.0 NAD+ <-->,0,HMR_9376,0,1000
+-1.0 NADP+ <-->,0,HMR_9377,0,1000
+-1.0 nicotinamide <-->,0.00202,HMR_9378,-0.00202,1000
+-1.0 nifedipine <-->,0,HMR_9379,0,1000
+-1.0 hydroxy-nifedipine <-->,0,HMR_9380,0,1000
+-1.0 NO <-->,0,HMR_9381,0,1000
+-1.0 norepinephrine sulfate <-->,0,HMR_9382,0,1000
+-1.0 O2- <-->,0,HMR_9383,0,1000
+-1.0 9-O-acetylated-GD3 <-->,0,HMR_9384,0,1000
+-1.0 9-O-acetylated-GT3 <-->,0,HMR_9385,0,1000
+-1.0 hydroxide <-->,0,HMR_9386,0,1000
+-1.0 omeprazole <-->,0,HMR_9387,0,1000
+"-1.0 (1R,2S)-naphthalene 1,2-oxide <-->",0,HMR_9388,0,1000
+-1.0 [protein]-L-lysine <-->,0,HMR_9389,0,1000
+-1.0 perillyl alcohol <-->,0,HMR_9390,0,1000
+-1.0 phenylacetylglutamine <-->,0,HMR_9391,0,1000
+-1.0 phylloquinone <-->,0,HMR_9392,0,1000
+-1.0 progesterone <-->,0,HMR_9393,0,1000
+-1.0 D-proline <-->,0,HMR_9394,0,1000
+-1.0 prostaglandin D2 <-->,0,HMR_9395,0,1000
+-1.0 prostaglandin E1 <-->,0,HMR_9396,0,1000
+-1.0 prostaglandin E2 <-->,0,HMR_9397,0,1000
+-1.0 prostaglandin F2alpha <-->,0,HMR_9398,0,1000
+-1.0 pyridoxamine <-->,0,HMR_9399,0,1000
+-1.0 pyridoxal <-->,0,HMR_9400,0,1000
+-1.0 ribitol <-->,0,HMR_9401,0,1000
+-1.0 retinoate <-->,0,HMR_9404,0,1000
+-1.0 retinoyl-glucuronide <-->,0,HMR_9405,0,1000
+-1.0 ribose <-->,0,HMR_9406,0,1000
+-1.0 D-serine <-->,0,HMR_9407,0,1000
+-1.0 (S)-3-sulfolactate <-->,0,HMR_9408,0,1000
+-1.0 sphingosylphosphorylcholine <-->,0,HMR_9409,0,1000
+-1.0 sphinganine-1-phosphate <-->,0,HMR_9410,0,1000
+-1.0 sphingosine-1-phosphate <-->,0,HMR_9411,0,1000
+-1.0 serotonin <-->,0,HMR_9412,0,1000
+-1.0 starch structure 1 <-->,0,HMR_9413,0,1000
+-1.0 starch structure 2 <-->,0,HMR_9414,0,1000
+-1.0 succinate <-->,0,HMR_9415,0,1000
+-1.0 sucrose <-->,0,HMR_9416,0,1000
+-1.0 D-tagatose <-->,0,HMR_9417,0,1000
+-1.0 taurine <-->,0,HMR_9418,0,1000
+-1.0 paclitaxel <-->,0,HMR_9419,0,1000
+-1.0 thiocyanate <-->,0,HMR_9420,0,1000
+-1.0 THF <-->,0,HMR_9421,0,1000
+-1.0 thymine <-->,0,HMR_9422,0,1000
+-1.0 thymidine <-->,0.000365,HMR_9423,-0.000365,1000
+-1.0 thyroxine <-->,0,HMR_9424,0,1000
+-1.0 tolbutamide <-->,0,HMR_9425,0,1000
+-1.0 trehalose <-->,0,HMR_9426,0,1000
+-1.0 triiodothyronine <-->,0,HMR_9427,0,1000
+"-1.0 3,5,3-triiodothyronine-4-sulfate <-->",0,HMR_9428,0,1000
+-1.0 testosterone <-->,0,HMR_9429,0,1000
+-1.0 testosterone glucuronide <-->,0,HMR_9430,0,1000
+-1.0 testosterone sulfate <-->,0,HMR_9431,0,1000
+-1.0 thiosulfate <-->,0,HMR_9432,0,1000
+-1.0 thromboxane A2 <-->,0,HMR_9433,0,1000
+-1.0 tyramine-O-sulfate <-->,0,HMR_9434,0,1000
+-1.0 UDP <-->,0,HMR_9435,0,1000
+-1.0 UMP <-->,0,HMR_9436,0,1000
+-1.0 uracil <-->,0,HMR_9437,0,1000
+-1.0 urea <-->,0,HMR_9438,0,1000
+-1.0 uridine <-->,0,HMR_9439,0,1000
+-1.0 UTP <-->,0,HMR_9440,0,1000
+-1.0 vitamin D2 <-->,0,HMR_9441,0,1000
+-1.0 vitamin D3 <-->,0,HMR_9442,0,1000
+-1.0 12-hydroxydodecanoic acid <-->,0,HMR_9443,0,1000
+-1.0 14-hydroxytetradecanoic acid <-->,0,HMR_9444,0,1000
+-1.0 16-hydroxyhexadecanoic acid <-->,0,HMR_9445,0,1000
+-1.0 19-hydroxytestosterone <-->,0,HMR_9446,0,1000
+-1.0 galactosylglycerol <-->,0,HMR_9447,0,1000
+-1.0 maltodecaose <-->,0,HMR_9448,0,1000
+-1.0 phenylacetylglycine <-->,0,HMR_9449,0,1000
+-1.0 XTP <-->,0,HMR_9450,0,1000
+-1.0 itaconate <-->,0,HMR_9451,0,1000
+-1.0 estriol <-->,0,HMR_9452,0,1000
+-1.0 etiocholanolone <-->,0,HMR_9453,0,1000
+-1.0 D-ornithine <-->,0,HMR_9454,0,1000
+-1.0 D-arginine <-->,0,HMR_9455,0,1000
+-1.0 ADP-glucose <-->,0,HMR_9456,0,1000
+-1.0 ADP-mannose <-->,0,HMR_9457,0,1000
+-1.0 D-ribulose <-->,0,HMR_9458,0,1000
+-1.0 creatinine <-->,0,HMR_9460,0,1000
+"-1.0 glucose-1,6-bisphosphate <-->",0,HMR_9461,0,1000
+-1.0 hyodeoxycholate <-->,0,HMR_9462,0,1000
+-1.0 glycodeoxycholate <-->,0,HMR_9463,0,1000
+-1.0 L-iduronic acid <-->,0,HMR_9681,0,1000
+-1.0 4-nitrophenyl-phosphate <-->,0,HMR_9682,0,1000
+-1.0 5-L-gamma-glutamyl <-->,0,HMR_9683,0,1000
+-1.0 agmatine <-->,0,HMR_9684,0,1000
+-1.0 D-glucitol <-->,0,HMR_9685,0,1000
+-1.0 G00022 <-->,0,HMR_9686,0,1000
+-1.0 G00032 <-->,0,HMR_9687,0,1000
+-1.0 G00086 <-->,0,HMR_9688,0,1000
+-1.0 N-acetyl-D-mannosamine <-->,0,HMR_9689,0,1000
+-1.0 orotate <-->,0,HMR_9690,0,1000
+-1.0 pyridoxal-phosphate <-->,0,HMR_9691,0,1000
+-1.0 spermine dialdehyde <-->,0,HMR_9692,0,1000
+-1.0 xanthurenate <-->,0,HMR_9693,0,1000
+-1.0 homovanillate <-->,0,HMR_9694,0,1000
+-1.0 G00040 <-->,0,HMR_9695,0,1000
+-1.0 G00079 <-->,0,HMR_9696,0,1000
+-1.0 G00082 <-->,0,HMR_9697,0,1000
+-1.0 G00083 <-->,0,HMR_9698,0,1000
+-1.0 V3(NeuAc)2-Gb5Cer <-->,0,HMR_9699,0,1000
+-1.0 n5m2masn <-->,0,HMR_9700,0,1000
+-1.0 coproporphyrin I <-->,0,HMR_9701,0,1000
+-1.0 coproporphyrin III <-->,0,HMR_9702,0,1000
+-1.0 gpi_sig <-->,0,HMR_9703,0,1000
+-1.0 dgpi_prot heparan sulfate <-->,0,HMR_9704,0,1000
+-1.0 dem2emgacpail_prot heparan sulfate <-->,0,HMR_9705,0,1000
+"-1.0 glcnac-alpha-1,4-core 2 <-->",0,HMR_9706,0,1000
+-1.0 3-deoxy-D-glycero-D-galacto-2-nonulosonic acid <-->,0,HMR_9707,0,1000
+-1.0 eumelanin <-->,0,HMR_9708,0,1000
+-1.0 core 5 <-->,0,HMR_9709,0,1000
+-1.0 core 7 <-->,0,HMR_9710,0,1000
+-1.0 core 8 <-->,0,HMR_9711,0,1000
+-1.0 mem2emgacpail_prot heparan sulfate <-->,0,HMR_9712,0,1000
+-1.0 4-hydroxyretinoic acid <-->,0,HMR_9713,0,1000
+-1.0 m3gacpail_prot heparan sulfate <-->,0,HMR_9714,0,1000
+-1.0 spermine <-->,0,HMR_9715,0,1000
+-1.0 dolichol <-->,0,HMR_9721,0,1000
+-1.0 glycogen <-->,0,HMR_9729,0,1000
+-1.0 albumin <-->,0,HMR_9730,0,1000
+-1.0 1-Acyl Phosphoglycerol <-->,0,EX_1glyc_hs[e],0,1000
+-1.0 Fatty Acid 9-Cis-Retinol <-->,0,EX_9_cis_retfa[e],0,1000
+-1.0 adrenic acid <-->,0,EX_adrn[e],0,1000
+-1.0 eicosanoate <-->,0,EX_arach[e],0,1000
+-1.0 arachidonate <-->,0,EX_arachd[e],0,1000
+-1.0 ATP <-->,0,EX_atp[e],0,1000
+-1.0 Beta-Tocopherol <-->,0,EX_bvite[e],0,1000
+-1.0 DPA <-->,0,EX_clpnd[e],0,1000
+-1.0 ceramide-1P pool <-->,0,EX_crmp_hs[e],0,1000
+-1.0 DHA <-->,0,EX_crvnc[e],0,1000
+"-1.0 1,2-diacylglycerol-LD-TAG pool <-->",0,EX_dag_hs[e],0,1000
+"-1.0 (4Z,7Z,10Z,13Z,16Z)-DPA <-->",0,EX_dcsptn1[e],0,1000
+-1.0 dihomo-gamma-linolenate <-->,0,EX_dlnlcg[e],0,1000
+-1.0 omega-3-arachidonic acid <-->,0,EX_eicostet[e],0,1000
+-1.0 elaidate <-->,0,EX_elaid[e],0,1000
+-1.0 Ley Glycolipid <-->,0,EX_fucfuc12gal14acglcgalgluside_hs[e],0,1000
+-1.0 Leb Glycolipid <-->,0,EX_fucfucgalacglcgalgluside_hs[e],0,1000
+-1.0 (S)-Glycerate <-->,0,EX_glyc_S[e],0,1000
+-1.0 glycogenin G4G7 <-->,0,EX_glygn2[e],0,1000
+"-1.0 Glycogen, Structure 4 (Glycogenin-1,6-{2[1,4-Glc], [1,4-Glc]}) <-->",0,EX_glygn4[e],0,1000
+"-1.0 Glycogen, Structure 5 (Glycogenin-2[1,4-Glc]) <-->",0,EX_glygn5[e],0,1000
+-1.0 palmitate <-->,0,EX_hdca[e],0,1000
+-1.0 palmitolate <-->,0,EX_hdcea[e],0,1000
+-1.0 cerotic acid <-->,0,EX_hexc[e],0,1000
+-1.0 histamine <-->,0,EX_hista[e],0,1000
+-1.0 margaric acid <-->,0,EX_hpdca[e],0,1000
+-1.0 lignocerate <-->,0,EX_lgnc[e],0,1000
+"-1.0 (6Z,9Z)-octadecadienoic acid <-->",0,EX_lneldc[e],0,1000
+-1.0 gamma-linolenate <-->,0,EX_lnlncg[e],0,1000
+-1.0 2-lysolecithin pool <-->,0,EX_lpchol_hs[e],0,1000
+-1.0 1-acylglycerol-3P pool <-->,0,EX_mag_hs[e],0,1000
+-1.0 nervonic acid <-->,0,EX_nrvnc[e],0,1000
+-1.0 stearate <-->,0,EX_ocdca[e],0,1000
+-1.0 oleate <-->,0,EX_ocdcea[e],0,1000
+-1.0 PC-LD pool <-->,0,EX_pchol_hs[e],0,1000
+-1.0 PE-LD pool <-->,0,EX_pe_hs[e],0,1000
+-1.0 PG-CL pool <-->,0,EX_pglyc_hs[e],0,1000
+-1.0 Phytanate <-->,0,EX_phyt[e],0,1000
+-1.0 PS-LD pool <-->,0,EX_ps_hs[e],0,1000
+-1.0 pentadecylic acid <-->,0,EX_ptdca[e],0,1000
+-1.0 retinyl-ester <-->,0,EX_retfa[e],0,1000
+-1.0 9-cis-retinol <-->,0,EX_retinol_9_cis[e],0,1000
+-1.0 11-cis-retinol <-->,0,EX_retinol_cis_11[e],0,1000
+-1.0 stearidonic acid <-->,0,EX_strdnc[e],0,1000
+-1.0 TAG-VLDL pool <-->,0,EX_tag_hs[e],0,1000
+"-1.0 (6Z,9Z,12Z,15Z,18Z,21Z)-THA <-->",0,EX_tethex3[e],0,1000
+"-1.0 (9Z,12Z,15Z,18Z,21Z)-TPA <-->",0,EX_tetpent3[e],0,1000
+"-1.0 (6Z,9Z,12Z,15Z,18Z)-TPA <-->",0,EX_tetpent6[e],0,1000
+"-1.0 (9Z,12Z,15Z,18Z)-TTA <-->",0,EX_tettet6[e],0,1000
+-1.0 EPA <-->,0,EX_tmndnc[e],0,1000
+-1.0 myristic acid <-->,0,EX_ttdca[e],0,1000
+-1.0 cis-vaccenic acid <-->,0,EX_vacc[e],0,1000
+-1.0 Cholesterol Ester <-->,0,EX_xolest_hs[e],0,1000
+-1.0 cholesterol-ester pool <-->,0,EX_xolest2_hs[e],0,1000
+"-1.0 cholest-5-ene-3beta,7alpha,24(S)-triol <-->",0,EX_xoltri24[e],0,1000
+"-1.0 cholest-5-ene-3beta,7alpha,25-triol <-->",0,EX_xoltri25[e],0,1000
+"-1.0 cholest-5-ene-3beta,7alpha,27-triol <-->",0,EX_xoltri27[e],0,1000
+-1.0 4-aminobutanal <-->,0,EX_4abutn[e],0,1000
+"-1.0 6-[(1S,2R)-1,2-dihydroxy-3-triphosphooxypropyl]-7,8-dihydropterin <-->",0,EX_ahdt[e],0,1000
+-1.0 CTP <-->,0,EX_ctp[e],0,1000
+-1.0 dGMP <-->,0,EX_dgmp[e],0,1000
+-1.0 dGTP <-->,0,EX_dgtp[e],0,1000
+-1.0 glycerone <-->,0,EX_dha[e],0,1000
+-1.0 DHAP <-->,0,EX_dhap[e],0,1000
+-1.0 dTMP <-->,0,EX_dtmp[e],0,1000
+-1.0 dTTP <-->,0,EX_dttp[e],0,1000
+-1.0 FAD <-->,0,EX_fad[e],0,1000
+-1.0 formaldehyde <-->,0,EX_fald[e],0,1000
+-1.0 glucose-1-phosphate <-->,0,EX_g1p[e],0,1000
+-1.0 isomaltose <-->,0,EX_HC00229[e],0,1000
+-1.0 3-keto-beta-D-galactose <-->,0,EX_HC01440[e],0,1000
+-1.0 lactose-6-phosphate <-->,0,EX_HC01441[e],0,1000
+-1.0 3-ketolactose <-->,0,EX_HC01446[e],0,1000
+-1.0 gamma-glutamyl-beta-cyanoalanine <-->,0,EX_HC01577[e],0,1000
+-1.0 uroporphyrinogen I <-->,0,EX_HC01609[e],0,1000
+-1.0 coproporphyrinogen I <-->,0,EX_HC01610[e],0,1000
+-1.0 gamma-glutamyl-3-aminopropiononitrile <-->,0,EX_HC01700[e],0,1000
+-1.0 GM2 <-->,0,EX_HC02160[e],0,1000
+-1.0 GM1 <-->,0,EX_HC02161[e],0,1000
+-1.0 PRPP <-->,0,EX_prpp[e],0,1000
+-1.0 UDP-glucose <-->,0,EX_udpg[e],0,1000
+-1.0 prostaglandin H2 <-->,0,EX_prostgh2[e],0,1000
+-1.0 prostaglandin I2 <-->,0,EX_prostgi2[e],0,1000
+-1.0 CDP <-->,0,EX_cdp[e],0,1000
+-1.0 dTDP <-->,0,EX_dtdp[e],0,1000
+-1.0 L-3-cyanoalanine <-->,0,EX_HC00955[e],0,1000
+-1.0 antichymotrypsin <-->,0,EX_HC00002[e],0,1000
+-1.0 antitrypsin <-->,0,EX_HC00003[e],0,1000
+-1.0 apoA1 <-->,0,EX_HC00004[e],0,1000
+-1.0 fibrinogen <-->,0,EX_HC01852[e],0,1000
+-1.0 haptoglobin <-->,0,EX_HC01939[e],0,1000
+-1.0 plasminogen <-->,0,EX_HC01942[e],0,1000
+-1.0 prothrombin <-->,0,EX_HC01943[e],0,1000
+-1.0 [apotransferin] <-->,0,EX_HC01944[e],0,1000
+-1.0 chitobiose <-->,0,EX_HC00822[e],0,1000
+-1.0 Chenodeoxycholate <-->,0,EX_C02528[e],0,1000
+-1.0 taurolithocholate <-->,0,EX_HC02192[e],0,1000
+-1.0 glycolithocholate <-->,0,EX_HC02193[e],0,1000
+-1.0 tauroursodeoxycholate <-->,0,EX_HC02195[e],0,1000
+-1.0 glycoursodeoxycholate <-->,0,EX_HC02196[e],0,1000
+-1.0 sulfochenodeoxycholate <-->,0,EX_HC02220[e],0,1000
+-1.0 Gm4-Pool <-->,0,EX_HC02154[e],0,1000
+-1.0 glutathionyl-leukotriene C4 <-->,0,EX_HC02199[e],0,1000
+-1.0 S-glutathionyl-2-4-dinitrobenzene <-->,0,EX_HC02200[e],0,1000
+-1.0 S-glutathionyl-ethacrynic acid <-->,0,EX_HC02201[e],0,1000
+-1.0 lithocholate <-->,0,EX_HC02191[e],0,1000
+-1.0 ursodeoxycholate <-->,0,EX_HC02194[e],0,1000
+-1.0 sulfoglycolithocholate <-->,0,EX_HC02197[e],0,1000
+-1.0 sulfotaurolithocholate <-->,0,EX_HC02198[e],0,1000
+-1.0 reverse triiodthyronine <-->,0,EX_HC02187[e],0,1000
+-1.0 thromboxane B2 <-->,0,EX_HC02180[e],0,1000
+-1.0 prostaglandin A1 <-->,0,EX_HC02202[e],0,1000
+-1.0 prostaglandin A2 <-->,0,EX_HC02203[e],0,1000
+-1.0 prostaglandin B1 <-->,0,EX_HC02204[e],0,1000
+-1.0 prostaglandin B2 <-->,0,EX_HC02205[e],0,1000
+-1.0 prostaglandin C1 <-->,0,EX_HC02206[e],0,1000
+-1.0 prostaglandin C2 <-->,0,EX_HC02207[e],0,1000
+-1.0 prostaglandin D1 <-->,0,EX_HC02208[e],0,1000
+-1.0 prostaglandin D3 <-->,0,EX_HC02210[e],0,1000
+-1.0 prostaglandin E3 <-->,0,EX_HC02213[e],0,1000
+-1.0 prostaglandin F1alpha <-->,0,EX_HC02214[e],0,1000
+-1.0 prostaglandin F2beta <-->,0,EX_HC02216[e],0,1000
+-1.0 prostaglandin G2 <-->,0,EX_HC02217[e],0,1000
+-1.0 malonyl-CoA <-->,0,EX_malcoa[e],0,1000
+-1.0 eicosanoyl-CoA <-->,0,EX_arachcoa[e],0,1000
+-1.0 CoA <-->,0,EX_coa[e],0,1000
+-1.0 3-oxodocosanoyl-CoA <-->,0,EX_CE2250[e],0,1000
+-1.0 spermine monoaldehyde <-->,0,EX_CE1935[e],0,1000
+-1.0 spermidine monoaldehyde 2 <-->,0,EX_CE1940[e],0,1000
+-1.0 spermidine dialdehyde <-->,0,EX_CE1943[e],0,1000
+-1.0 hypothiocyanite <-->,0,EX_CE2011[e],0,1000
+-1.0 spermidine monoaldehyde 1 <-->,0,EX_CE1939[e],0,1000
+-1.0 Maltopentaose <-->,0,EX_maltpt[e],0,1000
+-1.0 beta-casomorphin <-->,0,EX_CE2915[e],0,1000
+-1.0 beta-casomorphin (1-6) <-->,0,EX_CE4722[e],0,1000
+-1.0 neocasomorphin <-->,0,EX_CE2916[e],0,1000
+-1.0 neocasomorphin (1-5) <-->,0,EX_CE4723[e],0,1000
+-1.0 apelin-13 <-->,0,EX_CE2917[e],0,1000
+-1.0 apelin-(1-12) <-->,0,EX_CE4724[e],0,1000
+-1.0 Maltoheptaose <-->,0,EX_malthp[e],0,1000
+-1.0 maltononaose <-->,0,EX_CE2838[e],0,1000
+-1.0 Cyanosulfurous Acid Anion <-->,0,EX_CE1950[e],0,1000
+-1.0 Cyanate <-->,0,EX_cynt[e],0,1000
+"-1.0 2,3-cyclic-UMP <-->",0,EX_23cump[e],0,1000
+-1.0 3-UMP <-->,0,EX_3ump[e],0,1000
+-1.0 kinetensin <-->,0,EX_CE5786[e],0,1000
+-1.0 kinetensin 1-7 <-->,0,EX_CE5788[e],0,1000
+-1.0 kinetensin 1-8 <-->,0,EX_CE5789[e],0,1000
+-1.0 neuromedin N <-->,0,EX_CE5797[e],0,1000
+-1.0 neuromedin N(1-4) <-->,0,EX_CE5798[e],0,1000
+-1.0 kinetensin 1-3 <-->,0,EX_CE5787[e],0,1000
+-1.0 kinetensin 4-8 <-->,0,EX_CE5791[e],0,1000
+-1.0 N-acetyl-seryl-aspartyl-lysyl-proline <-->,0,EX_CE5867[e],0,1000
+-1.0 N-acetyl-seryl-aspartate <-->,0,EX_CE5868[e],0,1000
+-1.0 lysyl-proline <-->,0,EX_CE5869[e],0,1000
+-1.0 hypochlorite <-->,0,EX_CE4633[e],0,1000
+-1.0 nitryl-chloride <-->,0,EX_CE4881[e],0,1000
+-1.0 gamma-CEHC-glucuronide <-->,0,EX_CE5854[e],0,1000
+-1.0 gamma-carboxyethyl-hydroxychroman <-->,0,EX_CE1926[e],0,1000
+-1.0 UDP-galactose <-->,0,EX_udpgal[e],0,1000
+-1.0 ceramide pool <-->,0,EX_crm_hs[e],0,1000
+-1.0 D-galactosyl-N-acylsphingosine <-->,0,EX_galside_hs[e],0,1000
+-1.0 alloxan <-->,0,EX_CE0074[e],0,1000
+-1.0 CDP-ethanolamine <-->,0,EX_cdpea[e],0,1000
+"-1.0 1,2-Diacyl-Sn-Glycerol (Didodecanoyl, N-C12:0) <-->",0,EX_12dgr120[e],0,1000
+-1.0 alpha-CEHC-glucuronide <-->,0,EX_CE5853[e],0,1000
+-1.0 3-carboxy-alpha-chromanol <-->,0,EX_CE1925[e],0,1000
+-1.0 hepoxilin A3 <-->,0,EX_C04849[e],0,1000
+-1.0 3-Hydroxy Butyryl Carnitine <-->,0,EX_3bcrn[e],0,1000
+-1.0 3-Hydroxydodecanoylcarnitine <-->,0,EX_3ddcrn[e],0,1000
+-1.0 3-Hydroxydecanoylcarnitine <-->,0,EX_3deccrn[e],0,1000
+-1.0 3-Hydroxyhexadecenoylcarnitine <-->,0,EX_3hdececrn[e],0,1000
+-1.0 3-Hydroxyhexadecanoylcarnitine <-->,0,EX_3hexdcrn[e],0,1000
+-1.0 3-Hydroxy-Isovaleryl Carnitine <-->,0,EX_3ivcrn[e],0,1000
+-1.0 3-Hydroxyoctadecadienoylcarnitine <-->,0,EX_3octdec2crn[e],0,1000
+-1.0 3-Hydroxyoctadecanoyl Carnitine <-->,0,EX_3octdeccrn[e],0,1000
+-1.0 3-Hydroxy-Octadecenoyl Carnitine <-->,0,EX_3octdece1crn[e],0,1000
+-1.0 3-Hydroxy-Tetradecanoyl Carnitine <-->,0,EX_3tdcrn[e],0,1000
+-1.0 3-Hydroxy Tetradecenoyl-7-Carnitine <-->,0,EX_3tetd7ecoacrn[e],0,1000
+"-1.0 3-Hydroxy Trans7,10-Hexadecadienoyl Carnitine <-->",0,EX_3thexddcoacrn[e],0,1000
+"-1.0 3-Hydroxy Trans5,8Tetradecadienoyl Carnitine <-->",0,EX_3ttetddcoacrn[e],0,1000
+-1.0 Decenoyl Carnitine <-->,0,EX_c101crn[e],0,1000
+-1.0 Decanoyl Carnitine <-->,0,EX_c10crn[e],0,1000
+-1.0 Sebacoyl Carnitine <-->,0,EX_c10dc[e],0,1000
+-1.0 Dodecanedioyl Carnitine <-->,0,EX_c12dc[e],0,1000
+-1.0 Hexadecanedioic Acid Mono-L-Carnitine Ester <-->,0,EX_c16dc[e],0,1000
+-1.0 Malonyl Carnitine <-->,0,EX_c3dc[e],0,1000
+-1.0 O-butanoylcarnitine <-->,0,EX_c4crn[e],0,1000
+-1.0 Succinyl Carnitine <-->,0,EX_c4dc[e],0,1000
+-1.0 Tiglyl Carnitine <-->,0,EX_c51crn[e],0,1000
+-1.0 Glutaryl Carnitine <-->,0,EX_c5dc[e],0,1000
+-1.0 Hexanoyl Carnitine <-->,0,EX_c6crn[e],0,1000
+-1.0 Adipoyl Carnitine <-->,0,EX_c6dc[e],0,1000
+-1.0 Octenoyl Carnitine <-->,0,EX_c81crn[e],0,1000
+-1.0 L-octanoylcarnitine <-->,0,EX_c8crn[e],0,1000
+-1.0 Suberyl Carnitine <-->,0,EX_c8dc[e],0,1000
+-1.0 Dodecenoyl Carnitine <-->,0,EX_ddece1crn[e],0,1000
+-1.0 Lauroyl Carnitine <-->,0,EX_ddecrn[e],0,1000
+-1.0 Decadienoyl Carnitine <-->,0,EX_decdicrn[e],0,1000
+-1.0 cis-erucic acid <-->,0,EX_doco13ac[e],0,1000
+-1.0 behenic acid <-->,0,EX_docosac[e],0,1000
+-1.0 Docosanedioicacid <-->,0,EX_docosdiac[e],0,1000
+-1.0 Isovaleryl Carnitine <-->,0,EX_ivcrn[e],0,1000
+-1.0 Tetradecadienoyl Carnitine <-->,0,EX_tetdec2crn[e],0,1000
+-1.0 Tetradecenoyl Carnitine <-->,0,EX_tetdece1crn[e],0,1000
+-1.0 trans-4-hydroxy-L-proline <-->,0,EX_4hpro[e],0,1000
+-1.0 cobamide-coenzyme <-->,0,EX_adpcbl[e],0,1000
+-1.0 D-Alanyl-D-Alanine <-->,0,EX_alaala[e],0,1000
+-1.0 Beta-Glucans <-->,0,EX_bglc[e],0,1000
+-1.0 carnosine <-->,0,EX_carn[e],0,1000
+"-1.0 3alpha,12alpha-dihydroxy-5beta-cholanate <-->",0,EX_dchac[e],0,1000
+-1.0 Beta Glucan-Glycocholate Complex <-->,0,EX_glgchlo[e],0,1000
+-1.0 Beta Glucan-Taurocholic Acid Complex <-->,0,EX_gltcho[e],0,1000
+-1.0 Beta Glucan-Taurodeoxycholic Acid Complex <-->,0,EX_gltdechol[e],0,1000
+-1.0 Glycyl-Glycine <-->,0,EX_glygly[e],0,1000
+-1.0 Glycylsarcosine <-->,0,EX_glysar[e],0,1000
+-1.0 Gums <-->,0,EX_gum[e],0,1000
+-1.0 Guar Gum-Deoxyxholic Acid Complex <-->,0,EX_gumdchac[e],0,1000
+-1.0 Guar Gum-Glycocholate Complex <-->,0,EX_gumgchol[e],0,1000
+-1.0 Guar Gum-Taurocholic Acid Complex <-->,0,EX_gumtchol[e],0,1000
+-1.0 Leucyl-Glycine <-->,0,EX_leugly[e],0,1000
+-1.0 Leucylleucine <-->,0,EX_leuleu[e],0,1000
+-1.0 Pectin <-->,0,EX_pect[e],0,1000
+-1.0 Pectin-Deoxycholic Acid Complex <-->,0,EX_pectindchac[e],0,1000
+-1.0 Pectin-Glycocholate Complex <-->,0,EX_pectingchol[e],0,1000
+-1.0 Pectin-Taurocholic Acid Complex <-->,0,EX_pectintchol[e],0,1000
+-1.0 Psyllium <-->,0,EX_psyl[e],0,1000
+-1.0 Psillium-Glycocholic Acid Complex <-->,0,EX_psylchol[e],0,1000
+-1.0 Psyllium-Taurocholic Acid Complex <-->,0,EX_psyltchol[e],0,1000
+-1.0 Psyllium-Taurodeoxycholic Acid Complex <-->,0,EX_psyltdechol[e],0,1000
+-1.0 S-Sulfo-L-Cysteine <-->,0,EX_sfcys[e],0,1000
+-1.0 taurodeoxycholate <-->,0,EX_tdechola[e],0,1000
+-1.0 cysteamine <-->,0,EX_cysam[e],0,1000
+-1.0 dephospho-CoA <-->,0,EX_dpcoa[e],0,1000
+-1.0 FMN <-->,0,EX_fmn[e],0,1000
+-1.0 hypotaurine <-->,0,EX_hyptaur[e],0,1000
+-1.0 phosphopantetheine <-->,0,EX_pan4p[e],0,1000
+-1.0 pantetheine <-->,0,EX_ptth[e],0,1000
+-1.0 ubiquinone <-->,0,EX_q10[e],0,1000
+-1.0 ubiquinol <-->,0,EX_q10h2[e],0,1000
+-1.0 4-hydroxyphenylpyruvate <-->,0,EX_34hpp[e],0,1000
+-1.0 3-methyl-2-oxobutyrate <-->,0,EX_3mob[e],0,1000
+-1.0 2-oxo-3-methylvalerate <-->,0,EX_3mop[e],0,1000
+-1.0 4-methyl-2-oxopentanoate <-->,0,EX_4mop[e],0,1000
+-1.0 5-methylthioadenosine <-->,0,EX_5mta[e],0,1000
+-1.0 5-oxoproline <-->,0,EX_5oxpro[e],0,1000
+-1.0 SAH <-->,0,EX_ahcys[e],0,1000
+-1.0 AICAR <-->,0,EX_aicar[e],0,1000
+-1.0 anthranilate <-->,0,EX_anth[e],0,1000
+-1.0 N-carbamoyl-L-aspartate <-->,0,EX_cbasp[e],0,1000
+-1.0 2-phospho-D-glycerate <-->,0,EX_2pg[e],0,1000
+-1.0 5-hydroxyindoleacetate <-->,0,EX_5hoxindoa[e],0,1000
+-1.0 3-ureidopropionate <-->,0,EX_cala[e],0,1000
+-1.0 phosphocholine <-->,0,EX_cholp[e],0,1000
+-1.0 L-cystathionine <-->,0,EX_cyst_L[e],0,1000
+-1.0 dCMP <-->,0,EX_dcmp[e],0,1000
+-1.0 dimethylglycine <-->,0,EX_dmgly[e],0,1000
+-1.0 ethanolamine-phosphate <-->,0,EX_ethamp[e],0,1000
+-1.0 sn-glycerol-3-PC <-->,0,EX_g3pc[e],0,1000
+-1.0 glyceraldehyde <-->,0,EX_glyald[e],0,1000
+-1.0 guanidinoacetate <-->,0,EX_gudac[e],0,1000
+-1.0 homocysteine <-->,0,EX_hcys_L[e],0,1000
+-1.0 isocitrate <-->,0,EX_icit[e],0,1000
+-1.0 4-hydroxy-2-quinolinecarboxylic acid <-->,0,EX_kynate[e],0,1000
+-1.0 L-2-aminoadipate <-->,0,EX_L2aadp[e],0,1000
+-1.0 kynurenine <-->,0,EX_Lkynr[e],0,1000
+-1.0 PEP <-->,0,EX_pep[e],0,1000
+-1.0 quinolinate <-->,0,EX_quln[e],0,1000
+-1.0 xanthosine-5-phosphate <-->,0,EX_xmp[e],0,1000
+-1.0 xanthosine <-->,0,EX_xtsn[e],0,1000
+-1.0 3-phospho-D-glycerate <-->,0,EX_3pg[e],0,1000
+-1.0 3-hydroxyanthranilate <-->,0,EX_3hanthrn[e],0,1000
+-1.0 UDP-glucuronate <-->,0,EX_udpglcur[e],0,1000
+-1.0 3-hydroxy-L-kynurenine <-->,0,EX_hLkynr[e],0,1000
+-1.0 nicotinate ribonucleotide <-->,0,EX_nicrnt[e],0,1000
+-1.0 orotidine-5-phosphate <-->,0,EX_orot5p[e],0,1000
+-1.0 sn-glycerol-3-phosphate <-->,0,EX_glyc3p[e],0,1000
+-1.0 argininosuccinate <-->,0,EX_argsuc[e],0,1000
+-1.0 O-acetylcarnitine <-->,0,EX_acrn[e],0,1000
+-1.0 O-propanoylcarnitine <-->,0,EX_pcrn[e],0,1000
+"-1.0 (6Z,9Z)-octadecadienoylcarnitine <-->",0,EX_lneldccrn[e],0,1000
+-1.0 octadecenoylcarnitine(5) <-->,0,EX_odecrn[e],0,1000
+-1.0 stearoylcarnitine <-->,0,EX_stcrn[e],0,1000
+-1.0 L-palmitoylcarnitine <-->,0,EX_pmtcrn[e],0,1000
+-1.0 palmitoleoyl-carnitine <-->,0,EX_hdcecrn[e],0,1000
+-1.0 3-Methyl-Thio-Propionate <-->,0,EX_3mtp[e],0,1000
+"-1.0 8,9-EET <-->",0,EX_C14769[e],0,1000
+-1.0 12(S)-HPETE <-->,0,EX_12HPET[e],0,1000
+-1.0 15(S)-HPETE <-->,0,EX_15HPET[e],0,1000
+-1.0 15-Keto-Prostaglandin F2A <-->,0,EX_15kprostgf2[e],0,1000
+-1.0 21-Hydroxypregnenolone <-->,0,EX_21hprgnlone[e],0,1000
+-1.0 2-oxoadipate <-->,0,EX_2oxoadp[e],0,1000
+-1.0 4-hydroxyphenyllactate <-->,0,EX_34hpl[e],0,1000
+-1.0 3-hydroxyisobutyrate <-->,0,EX_3hmp[e],0,1000
+-1.0 hydracrylate <-->,0,EX_3hpp[e],0,1000
+-1.0 3-(3-Hydroxy-Phenyl)Propionate Hydroxy Derivative Glucuronide <-->,0,EX_3hpppnohgluc[e],0,1000
+-1.0 3-Methylhistidine <-->,0,EX_3mhis[e],0,1000
+-1.0 3-ureidoisobutyrate <-->,0,EX_3uib[e],0,1000
+-1.0 4-acetamidobutanoate <-->,0,EX_4aabutn[e],0,1000
+-1.0 gamma-butyrobetaine <-->,0,EX_4tmeabutn[e],0,1000
+-1.0 dihydrothymine <-->,0,EX_56dthm[e],0,1000
+"-1.0 5,6-Dihydrouracil <-->",0,EX_56dura[e],0,1000
+-1.0 5(S)-HPETE <-->,0,EX_5HPET[e],0,1000
+-1.0 provitamin D3 <-->,0,EX_7dhchsterol[e],0,1000
+-1.0 Acetyl-Glycine <-->,0,EX_acgly[e],0,1000
+-1.0 Acetyl-L-Lysine <-->,0,EX_aclys[e],0,1000
+-1.0 N-acetylornithine <-->,0,EX_acorn[e],0,1000
+-1.0 Acetyl-Threonine <-->,0,EX_acthr_L[e],0,1000
+-1.0 Adipic Acid <-->,0,EX_adpac[e],0,1000
+-1.0 2-Hydroxyadipic Acid <-->,0,EX_adpoh[e],0,1000
+-1.0 SAM <-->,0,EX_amet[e],0,1000
+"-1.0 19-Hydroxyandrost-4-Ene-3,17-Dione <-->",0,EX_and19one[e],0,1000
+-1.0 O-Arachidonoyl Ethanolamine <-->,0,EX_aracheth[e],0,1000
+-1.0 biliverdin <-->,0,EX_biliverd[e],0,1000
+-1.0 (S)-2-aminobutanoate <-->,0,EX_C02356[e],0,1000
+-1.0 N-acetylmethionine <-->,0,EX_C02712[e],0,1000
+-1.0 13(S)-HPODE <-->,0,EX_C04717[e],0,1000
+-1.0 5(S)-HETE <-->,0,EX_C04805[e],0,1000
+-1.0 prostaglandin J2 <-->,0,EX_C05957[e],0,1000
+-1.0 lipoxin A4 <-->,0,EX_C06314[e],0,1000
+-1.0 lipoxin B4 <-->,0,EX_C06315[e],0,1000
+-1.0 anandamide <-->,0,EX_C11695[e],0,1000
+"-1.0 5,6-EET <-->",0,EX_C14768[e],0,1000
+"-1.0 11,12-EET <-->",0,EX_C14770[e],0,1000
+"-1.0 14,15-EET <-->",0,EX_C14771[e],0,1000
+-1.0 9(10)-EpOME <-->,0,EX_C14825[e],0,1000
+-1.0 12(13)-EpOME <-->,0,EX_C14826[e],0,1000
+-1.0 6-oxo-prostaglandin F1alpha <-->,0,EX_CE0955[e],0,1000
+"-1.0 5beta-cholestane-3alpha,7alpha,12alpha,24s,25-pentol <-->",0,EX_CE1273[e],0,1000
+-1.0 8-Dehydrocholesterol <-->,0,EX_CE1297[e],0,1000
+-1.0 N-acetyl-L-alanine <-->,0,EX_CE1554[e],0,1000
+-1.0 N-acetyl-L-asparagine <-->,0,EX_CE1557[e],0,1000
+-1.0 beta-hydroxy-beta-methylbutyrate <-->,0,EX_CE2028[e],0,1000
+-1.0 3-O-methyldopa <-->,0,EX_CE2176[e],0,1000
+-1.0 6-trans-LTB4 <-->,0,EX_CE2445[e],0,1000
+-1.0 15(S)-HETrE <-->,0,EX_CE2537[e],0,1000
+"-1.0 Cis,Cis-11,14-Eicosadienoic Acid <-->",0,EX_CE4843[e],0,1000
+-1.0 15-deoxy-PGD2 <-->,0,EX_CE5304[e],0,1000
+-1.0 androsterone sulfate <-->,0,EX_CE6031[e],0,1000
+"-1.0 5,12,20-TriHETE <-->",0,EX_CE6247[e],0,1000
+-1.0 15(S)-HEPE <-->,0,EX_CE7082[e],0,1000
+-1.0 leukotriene B5 <-->,0,EX_CE7083[e],0,1000
+"-1.0 14,15-DiHETE <-->",0,EX_CE7172[e],0,1000
+-1.0 cortisone <-->,0,EX_cortsn[e],0,1000
+"-1.0 C12:0-Ethanolamide, Didecanoyl Ethanolamide <-->",0,EX_didecaeth[e],0,1000
+-1.0 Dihomo-Gamma-Linolenoyl Ethanolamide <-->,0,EX_diholineth[e],0,1000
+-1.0 Docosahexaenoyl Ethanolamide <-->,0,EX_docohxeth[e],0,1000
+"-1.0 Docosatetraenoyl Ethanolamide (22:4, Delta 7, 10, 13, 16) <-->",0,EX_docteteth[e],0,1000
+-1.0 Dodecanedioic Acid <-->,0,EX_dodecanac[e],0,1000
+-1.0 (9E)-octadecenoylcarnitine <-->,0,EX_elaidcrn[e],0,1000
+-1.0 N-formimino-L-glutamate <-->,0,EX_forglu[e],0,1000
+-1.0 methylmalonate <-->,0,EX_HC00900[e],0,1000
+-1.0 Heptadecanoyl Thanolamide (C17:0) <-->,0,EX_hepdeceth[e],0,1000
+"-1.0 Hexadecenoyl Ethanolamide, C16:1-Ethanolamide (Delta 9) <-->",0,EX_hexdeceeth[e],0,1000
+-1.0 Hexadecanediocacid <-->,0,EX_hexdiac[e],0,1000
+-1.0 homogentisate <-->,0,EX_hgentis[e],0,1000
+-1.0 Homocarnosine <-->,0,EX_hmcarn[e],0,1000
+-1.0 Homocitrulline <-->,0,EX_hmcr[e],0,1000
+-1.0 hexanoyl-CoA <-->,0,EX_hxcoa[e],0,1000
+-1.0 20-COOH-LTB4 <-->,0,EX_leuktrB4wcooh[e],0,1000
+-1.0 20-OH-LTB4 <-->,0,EX_leuktrB4woh[e],0,1000
+-1.0 Linoleoyl Ethanolamide <-->,0,EX_lineth[e],0,1000
+-1.0 linoleic-carnitine <-->,0,EX_lnlccrn[e],0,1000
+-1.0 L-pipecolate <-->,0,EX_Lpipecol[e],0,1000
+-1.0 lathosterol <-->,0,EX_lthstrl[e],0,1000
+-1.0 1-Arachidonoyl Glycerol <-->,0,EX_magarachi_hs[e],0,1000
+-1.0 1-Linoleoylglycerol <-->,0,EX_maglinl_hs[e],0,1000
+-1.0 1-Oleoylglycerol <-->,0,EX_magole_hs[e],0,1000
+-1.0 1-Palmitoylglycerol <-->,0,EX_magpalm_hs[e],0,1000
+-1.0 1-Stearoylglycerol <-->,0,EX_magste_hs[e],0,1000
+-1.0 (R)-mevalonate <-->,0,EX_mev_R[e],0,1000
+-1.0 inositol-1-phosphate <-->,0,EX_mi1p_D[e],0,1000
+-1.0 N-acetyl-L-aspartate <-->,0,EX_Nacasp[e],0,1000
+-1.0 N-(omega)-hydroxyarginine <-->,0,EX_nwharg[e],0,1000
+-1.0 Oleoyl Ethanolamide <-->,0,EX_oleth[e],0,1000
+-1.0 1-Arachidonoylglycerophosphoinositol <-->,0,EX_pailar_hs[e],0,1000
+-1.0 1-Palmitoylglycerophosphoinositol <-->,0,EX_pailpalm_hs[e],0,1000
+-1.0 1-Stearoylglycerophosphoinositol <-->,0,EX_pailste_hs[e],0,1000
+-1.0 2-Linoleoylglycerophosphocholine <-->,0,EX_pchol2linl_hs[e],0,1000
+-1.0 2-Oleoylglycerophosphocholine <-->,0,EX_pchol2ole_hs[e],0,1000
+-1.0 2-Palmitoylglycerophosphocholine <-->,0,EX_pchol2palm_hs[e],0,1000
+-1.0 2-Stearoylglycerophosphocholine <-->,0,EX_pchol2ste_hs[e],0,1000
+-1.0 1-Arachidonoyl-Glycero-3-Phosphocholine <-->,0,EX_pcholar_hs[e],0,1000
+-1.0 1-Docosahexaenoylglycerophosphocholine <-->,0,EX_pcholdoc_hs[e],0,1000
+"-1.0 1-Eicosadienoylglycerophosphocholine (Delta 11,14) <-->",0,EX_pcholeic_hs[e],0,1000
+"-1.0 1-Eicosatrienoylglycerophosphocholine (Delta 11, 14, 17) <-->",0,EX_pcholet_hs[e],0,1000
+-1.0 1-Heptadecanoylglycerophosphocholine <-->,0,EX_pcholhep_hs[e],0,1000
+"-1.0 1-Linoleoylglycerophosphocholine (Delta 9,12) <-->",0,EX_pchollinl_hs[e],0,1000
+-1.0 1-Myristoylglycerophosphocholine <-->,0,EX_pcholmyr_hs[e],0,1000
+"-1.0 1-Pentadecanoylglycerophosphocholine, Sn1-Lpc (15:0) <-->",0,EX_pcholn15_hs[e],0,1000
+"-1.0 1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 9, 12, 15) <-->",0,EX_pcholn183_hs[e],0,1000
+"-1.0 1-Octadeca-Trienoylglycerophosphocholine, Sn1-Lpc (18:3, Delta 6, 9, 12) <-->",0,EX_pcholn1836_hs[e],0,1000
+"-1.0 1-Nonadecanoylglycerophosphocholine, Sn1-Lpc (19:0) <-->",0,EX_pcholn19_hs[e],0,1000
+"-1.0 1-Eicosenoylglycerophosphocholine (Delta 11) ,Sn1-Lpc (20:1) <-->",0,EX_pcholn201_hs[e],0,1000
+"-1.0 1-Dihomo-Linolenoylglycerophosphocholine (20:3, Delta 8, 11, 14), Lysopc A C20:3 <-->",0,EX_pcholn203_hs[e],0,1000
+"-1.0 1-Eicosatetraenoylglycerophosphocholine (Delta 8, 11, 14, 17), Sn1-Lpc (20:4) <-->",0,EX_pcholn204_hs[e],0,1000
+"-1.0 1-Eicosapentenoylglycerophosphocholine (Delta 5, 8, 11, 14, 17), Sn1-Lpc (20:5) <-->",0,EX_pcholn205_hs[e],0,1000
+"-1.0 1-Docosatetraenoylglycerophosphocholine (Delta 7, 10, 13, 16), Sn1-Lpc (22:4) <-->",0,EX_pcholn224_hs[e],0,1000
+"-1.0 1-Docosapentenoylglycerophosphocholine (Delta 7, 10, 13, 16, 19), Sn1-Lpc (22:5)-W3 <-->",0,EX_pcholn225_hs[e],0,1000
+"-1.0 1-Docosapentenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16), Sn1-Lpc (22:5)-W6 <-->",0,EX_pcholn2254_hs[e],0,1000
+"-1.0 1-Docosahexenoylglycerophosphocholine (Delta 4, 7, 10, 13, 16, 19), Sn1-Lpc (22:6) <-->",0,EX_pcholn226_hs[e],0,1000
+"-1.0 1-Lignocericylglycerophosphocholine (24:0), Lysopc A C24 <-->",0,EX_pcholn24_hs[e],0,1000
+-1.0 Lysopc A C26:1 (Delta 5) <-->,0,EX_pcholn261_hs[e],0,1000
+-1.0 Lysopc A C28:0 <-->,0,EX_pcholn28_hs[e],0,1000
+-1.0 Lysopc A C28:1 (Delta 5) <-->,0,EX_pcholn281_hs[e],0,1000
+-1.0 1-Oleoylglycerophosphocholine (Delta 9) <-->,0,EX_pcholole_hs[e],0,1000
+-1.0 1-Palmitoylglycerophosphocholine <-->,0,EX_pcholpalm_hs[e],0,1000
+-1.0 1-Palmitoleoylglycerophosphocholine (Delta 9) <-->,0,EX_pcholpalme_hs[e],0,1000
+-1.0 1-Stearoylglycerophosphocholine <-->,0,EX_pcholste_hs[e],0,1000
+-1.0 L-hydroxylysine <-->,0,EX_pcollg5hlys[e],0,1000
+-1.0 1-Didecanoylglycerophosphoethanolamine (C12:0 Pe) <-->,0,EX_pe12_hs[e],0,1000
+-1.0 1-Tridecanoylglycerophosphoethanolamine (C13:0 Pe) <-->,0,EX_pe13_hs[e],0,1000
+-1.0 1-Myristoylglycerophosphoethanolamine (C14:0 Pe) <-->,0,EX_pe14_hs[e],0,1000
+-1.0 1-Pentadecanoylglycerophosphoethanolamine (C15:0 Pe) <-->,0,EX_pe15_hs[e],0,1000
+"-1.0 1-Hexadecenoylglycerophosphoethanolamine (C16:1 Pe, Delta 9) <-->",0,EX_pe161_hs[e],0,1000
+-1.0 1-Heptadecanoylglycerophosphoethanolamine (C17:0 Pe) <-->,0,EX_pe17_hs[e],0,1000
+"-1.0 1-Eicosatrienoylglycerophosphoethanolamine (Delta 11, 14, 17), Lpe (20:3) <-->",0,EX_pe203_hs[e],0,1000
+"-1.0 1-Docosatetraenoyglycerophosphoethanolamine (22:4, Delta 7, 10, 13, 16) <-->",0,EX_pe224_hs[e],0,1000
+"-1.0 1-Docosahexenoylglyceroethanolamine (Delta 4, 7, 10, 13, 16, 19), Lpe (22:6) <-->",0,EX_pe226_hs[e],0,1000
+-1.0 2-Linoleoylglycerophosphoethanolamine <-->,0,EX_pe2linl_hs[e],0,1000
+-1.0 1-Arachidonoyl-Sn-Glycero-3-Phosphoethanolamine <-->,0,EX_pear_hs[e],0,1000
+"-1.0 1-Dihomo-Linolenoylglycerophosphoethanolamine (20:3, Delta 8, 11, 14) <-->",0,EX_pedh203_hs[e],0,1000
+"-1.0 1-Linoleoylglycerophosphoethanolamine (Delta 9,12) <-->",0,EX_pelinl_hs[e],0,1000
+-1.0 Pentadecanoyl Thanolamide (C15:0) <-->,0,EX_pendecaeth[e],0,1000
+-1.0 1-Oleoylglycerophosphoethanolamine (Delta 9) <-->,0,EX_peole_hs[e],0,1000
+-1.0 1-Palmitoylglycerophosphoethanolamine <-->,0,EX_pepalm_hs[e],0,1000
+-1.0 1-Stearoylglycerophosphoethanolamine <-->,0,EX_peste_hs[e],0,1000
+-1.0 Palmitoylethanolamide <-->,0,EX_pmeth[e],0,1000
+-1.0 saccharopine <-->,0,EX_saccrp_L[e],0,1000
+-1.0 Sebacicacid <-->,0,EX_sebacid[e],0,1000
+"-1.0 Sm (D18:0/24:1), Sphingomyelin <-->",0,EX_sphmyln180241_hs[e],0,1000
+"-1.0 Sm (D18:1/14:0), Sphingomyelin <-->",0,EX_sphmyln18114_hs[e],0,1000
+"-1.0 Sm (D18:1/15:0), Sphingomyelin <-->",0,EX_sphmyln18115_hs[e],0,1000
+"-1.0 Sm (D18:1/16:0), Sphingomyelin <-->",0,EX_sphmyln18116_hs[e],0,1000
+"-1.0 Sm (D18:1/16:1), Sphingomyelin <-->",0,EX_sphmyln181161_hs[e],0,1000
+"-1.0 Sm (D18:1/17:0), Sphingomyelin <-->",0,EX_sphmyln18117_hs[e],0,1000
+"-1.0 Sm (D18:1/18:0), Sphingomyelin <-->",0,EX_sphmyln18118_hs[e],0,1000
+"-1.0 Sm (D18:1/18:1), Sphingomyelin <-->",0,EX_sphmyln181181_hs[e],0,1000
+"-1.0 Sm (D18:1/20:0), Sphingomyelin <-->",0,EX_sphmyln18120_hs[e],0,1000
+"-1.0 Sm (D18:1/20:1), Sphingomyelin <-->",0,EX_sphmyln181201_hs[e],0,1000
+"-1.0 Sm (D18:1/21:0), Sphingomyelin <-->",0,EX_sphmyln18121_hs[e],0,1000
+"-1.0 Sm (D18:1/22:0), Sphingomyelin <-->",0,EX_sphmyln18122_hs[e],0,1000
+"-1.0 Sm (D18:1/22:1), Sphingomyelin <-->",0,EX_sphmyln181221_hs[e],0,1000
+"-1.0 Sm (D18:1/23:0), Sphingomyelin <-->",0,EX_sphmyln18123_hs[e],0,1000
+"-1.0 Sm (D18:0/24:0), Sphingomyelin <-->",0,EX_sphmyln1824_hs[e],0,1000
+"-1.0 Sm (D18:0/25:0), Sphingomyelin <-->",0,EX_sphmyln1825_hs[e],0,1000
+-1.0 Stearoyl Ethanolamide <-->,0,EX_steeth[e],0,1000
+-1.0 Suberic Acid <-->,0,EX_subeac[e],0,1000
+"-1.0 Cia-5,8, Tetradecadienoic Acid <-->",0,EX_tetdeca511ac[e],0,1000
+"-1.0 C14:0-Ethanolamide, Tetradecanoyl Ethanolamide <-->",0,EX_tetdecaeth[e],0,1000
+-1.0 threonate <-->,0,EX_thrnt[e],0,1000
+"-1.0 N6,N6,N6-trimethyl-L-lysine <-->",0,EX_tmlys[e],0,1000
+-1.0 Tridecanoyl Thanolamide (C13:0) <-->,0,EX_trideceth[e],0,1000
+-1.0 tetradecenoylcarnitine(5) <-->,0,EX_ttdcrn[e],0,1000
+-1.0 Thromboxane B2 <-->,0,EX_txb2[e],0,1000
+-1.0 urocanate <-->,0,EX_urcan[e],0,1000
+-1.0 10-HETE <-->,0,EX_wharachd[e],0,1000
+"-1.0 1-Vaccenoyl-Cholesterol, Cholesterol-Ester (18:1, Delta 11) <-->",0,EX_xolest181_hs[e],0,1000
+"-1.0 1-Linoleoyl-Cholesterol, Cholesterol-Ester (18:2, Delta 9, 12) <-->",0,EX_xolest182_hs[e],0,1000
+"-1.0 1-Gamma-Linolenoyl-Cholesterol, Cholesterol-Ester (18:3, Delta 6, 9, 12) <-->",0,EX_xolest183_hs[e],0,1000
+"-1.0 Cholesteryl Arachidonate, Cholesterol-Ester (20:4, Delta 5,8,11,14) <-->",0,EX_xolest204_hs[e],0,1000
+"-1.0 1-Timnodnoyl-Cholesterol, Cholesterol-Ester (20:5, Delta 5,8,11,14,17) <-->",0,EX_xolest205_hs[e],0,1000
+"-1.0 Cholesteryl Docosahexanoate, Cholesterol-Ester (22:6, Delta 4,7,10,13,16,19) <-->",0,EX_xolest226_hs[e],0,1000
+-1.0 Acetyl Isoleucine (Chemspider Id: 9964364) <-->,0,EX_acile_L[e],0,1000
+-1.0 N-Acetylleucine <-->,0,EX_acleu_L[e],0,1000
+-1.0 Acetylhomoserine <-->,0,EX_achom_L[e],0,1000
+-1.0 Phenylacetylglycine_phacgly <-->,0,EX_phacgly[e],0,1000
+-1.0 3-(3-Hydroxy-Phenyl)Propionate <-->,0,EX_3hpppn[e],0,1000
+-1.0 3-methoxytyramine <-->,0,EX_3moxtyr[e],0,1000
+-1.0 5-aminolevulinate <-->,0,EX_5aop[e],0,1000
+-1.0 D-Arabitol <-->,0,EX_abt_D[e],0,1000
+-1.0 N-acetyl-L-glutamate <-->,0,EX_acglu[e],0,1000
+-1.0 allantoin <-->,0,EX_alltn[e],0,1000
+-1.0 cis-gondoic acid <-->,0,EX_CE2510[e],0,1000
+"-1.0 (8Z,11Z,14Z)-Eicosatrienoic Acid <-->",0,EX_CE2516[e],0,1000
+-1.0 lauric acid <-->,0,EX_ddca[e],0,1000
+-1.0 Glycerol 2-Phosphate <-->,0,EX_glyc2p[e],0,1000
+-1.0 glycolate <-->,0,EX_glyclt[e],0,1000
+-1.0 L-cysteate <-->,0,EX_Lcyst[e],0,1000
+-1.0 OAA <-->,0,EX_oaa[e],0,1000
+-1.0 phenylacetate <-->,0,EX_pac[e],0,1000
+-1.0 Phenyllactate <-->,0,EX_phlac[e],0,1000
+-1.0 3-phosphoserine <-->,0,EX_pser_L[e],0,1000
+-1.0 (9E)-tetradecenoic acid <-->,0,EX_ttdcea[e],0,1000
+-1.0 3-Hydroxycinnamic Acid <-->,0,EX_3hcinnm[e],0,1000
+-1.0 3-Hydroxyphenylpropionic Acid (3-Hppa) <-->,0,EX_3hppa[e],0,1000
+-1.0 hippurate <-->,0,EX_bgly[e],0,1000
+-1.0 Phenylacetylglycine <-->,0,EX_pheacgly[e],0,1000
+-1.0 benzoate <-->,0,EX_bz[e],0,1000
+-1.0 P-Cresol <-->,0,EX_pcresol[e],0,1000
+-1.0 P-Cresol Sulfate <-->,0,EX_pcs[e],0,1000
+-1.0 Indoxyl Sulfate <-->,0,EX_inds[e],0,1000
+-1.0 normetanephrine <-->,0,EX_normete_L[e],0,1000
+-1.0 16alpha-hydroxyestrone <-->,0,EX_C05300[e],0,1000
+-1.0 retinal <-->,0,EX_retinal[e],0,1000
+-1.0 Maltotetraose <-->,0,EX_maltttr[e],0,1000
+-1.0 L-Prolinylglycine <-->,0,EX_progly[e],0,1000
+-1.0 dihydrobiopterin <-->,0,EX_dhbpt[e],0,1000
+-1.0 tetrahydrobiopterin <-->,0,EX_thbpt[e],0,1000
+-1.0 Alanyl-Arginyl-Cysteine <-->,0,EX_alaargcys[e],0,1000
+-1.0 Alanyl-Arginyl-Glycine <-->,0,EX_alaarggly[e],0,1000
+-1.0 Alanyl-Asparaginyl-Leucine <-->,0,EX_alaasnleu[e],0,1000
+-1.0 Alanyl-Glycyl-Lysine <-->,0,EX_alaglylys[e],0,1000
+-1.0 Alanyl-Histidyl-Alanine <-->,0,EX_alahisala[e],0,1000
+-1.0 Alanyl-Lysine-Threonine <-->,0,EX_alalysthr[e],0,1000
+-1.0 Arginyl-Alanyl-Alanine <-->,0,EX_argalaala[e],0,1000
+-1.0 Arginyl-Alanine-Phenylalanine <-->,0,EX_argalaphe[e],0,1000
+-1.0 Arginyl-Alanyl-Threonine <-->,0,EX_argalathr[e],0,1000
+-1.0 Arginyl-Arginine <-->,0,EX_argarg[e],0,1000
+-1.0 Arginyl-Arginyl-Lysine <-->,0,EX_argarglys[e],0,1000
+-1.0 Arginyl-Arginyl-Metheonine <-->,0,EX_argargmet[e],0,1000
+-1.0 Arginyl-Cystinyl-Glycine <-->,0,EX_argcysgly[e],0,1000
+-1.0 Arginyl-Cystinyl-Serine <-->,0,EX_argcysser[e],0,1000
+-1.0 Arginyl-Glutamyl-Glutamate <-->,0,EX_arggluglu[e],0,1000
+-1.0 Arginyl-Glutamyl-Proline <-->,0,EX_argglupro[e],0,1000
+-1.0 Arginyl-Glycyl-Glycine <-->,0,EX_argglygly[e],0,1000
+-1.0 Arginyl-Histidyl-Threonine <-->,0,EX_arghisthr[e],0,1000
+-1.0 Arginyl-Leucyl-Phenylalanine <-->,0,EX_argleuphe[e],0,1000
+-1.0 Arginyl-Lysyl-Aspartate <-->,0,EX_arglysasp[e],0,1000
+-1.0 Arginyl-Phenylalanine-Arginine <-->,0,EX_argphearg[e],0,1000
+-1.0 Arginyl-Prolyl-Methionine <-->,0,EX_argpromet[e],0,1000
+-1.0 Arginyl-Prolyl-Threonine <-->,0,EX_argprothr[e],0,1000
+-1.0 Arginyl-Seryl-Serine <-->,0,EX_argserser[e],0,1000
+-1.0 Argtyrval <-->,0,EX_argtyrval[e],0,1000
+-1.0 Arginyl-Valyl-Cysteine <-->,0,EX_argvalcys[e],0,1000
+-1.0 Arginyl-Valyl-Tryptophan <-->,0,EX_argvaltrp[e],0,1000
+-1.0 Asparaginyl-Asparaginyl-Arginine <-->,0,EX_asnasnarg[e],0,1000
+-1.0 Asparaginyl-Cysteinyl-Cysteine <-->,0,EX_asncyscys[e],0,1000
+-1.0 Asparaginyl-Methionyl-Proline <-->,0,EX_asnmetpro[e],0,1000
+-1.0 Asparaginyl-Phenylalanyl-Aspartate <-->,0,EX_asnpheasp[e],0,1000
+-1.0 Asparaginyl-Phenylalanyl-Cysteine <-->,0,EX_asnphecys[e],0,1000
+-1.0 Asparaginyl-Tyrosyl-Glycine <-->,0,EX_asntyrgly[e],0,1000
+-1.0 Asparaginyl-Tyrosyl-Phenylalanine <-->,0,EX_asntyrphe[e],0,1000
+-1.0 Asparaginyl-Tyrosyl-Threonine <-->,0,EX_asntyrthr[e],0,1000
+-1.0 Asparaginyl-Alanyl-Arginine <-->,0,EX_aspalaarg[e],0,1000
+-1.0 Aspartyl-Asparaginyl-Glutamate <-->,0,EX_aspasnglu[e],0,1000
+-1.0 Aspartyl-Glutamate <-->,0,EX_aspglu[e],0,1000
+-1.0 Aspartyl-Glutamyl-Proline <-->,0,EX_aspglupro[e],0,1000
+-1.0 Aspartyl-Glutamyl-Tryptophan <-->,0,EX_aspglutrp[e],0,1000
+-1.0 Aspartyl-Histidyl-Cysteine <-->,0,EX_asphiscys[e],0,1000
+-1.0 Aspartyl-Histidyl-Proline <-->,0,EX_asphispro[e],0,1000
+-1.0 Aspartyl-Lysyl-Glutamate <-->,0,EX_asplysglu[e],0,1000
+-1.0 Aspartyl-Lysyl-Histidine <-->,0,EX_asplyshis[e],0,1000
+-1.0 Aspartyl-Methionyl-Aspartate <-->,0,EX_aspmetasp[e],0,1000
+-1.0 Aspartyl-Prolyl-Lysine <-->,0,EX_aspprolys[e],0,1000
+-1.0 Aspartyl-Valyl-Asparagine <-->,0,EX_aspvalasn[e],0,1000
+-1.0 Cystyl-Asparaginyl-Methionine <-->,0,EX_cysasnmet[e],0,1000
+-1.0 Cystyl-Aspartyl-Phenylalanine <-->,0,EX_cysaspphe[e],0,1000
+-1.0 Cystyl-Cysteine <-->,0,EX_cyscys[e],0,1000
+-1.0 Cystyl-Glutaminyl-Methionine <-->,0,EX_cysglnmet[e],0,1000
+-1.0 Cystyl-Glutamyl-Histidine <-->,0,EX_cysgluhis[e],0,1000
+-1.0 Cystyl-Glutamyl-Tryptophan <-->,0,EX_cysglutrp[e],0,1000
+-1.0 Cystyl-Leucyl-Threonine <-->,0,EX_cysleuthr[e],0,1000
+-1.0 Cystyl-Seryl-Methionine <-->,0,EX_cyssermet[e],0,1000
+-1.0 Cystyl-Tyrosyl-Asparagine <-->,0,EX_cystyrasn[e],0,1000
+-1.0 Glutaminyl-Asparaginyl-Glutamine <-->,0,EX_glnasngln[e],0,1000
+-1.0 Glutaminyl-Histidyl-Histidine <-->,0,EX_glnhishis[e],0,1000
+-1.0 Glutaminyl-Histidyl-Lysine <-->,0,EX_glnhislys[e],0,1000
+-1.0 Glutaminyl-Lysyl-Lysine <-->,0,EX_glnlyslys[e],0,1000
+-1.0 Glutaminyl-Lysyl-Tryptophan <-->,0,EX_glnlystrp[e],0,1000
+-1.0 Glutaminyl-Prolyl-Glutamate <-->,0,EX_glnproglu[e],0,1000
+-1.0 Glutaminyl-Tryptophanyl-Glutamate <-->,0,EX_glntrpglu[e],0,1000
+-1.0 Glutaminyl-Tyrosyl-Leucine <-->,0,EX_glntyrleu[e],0,1000
+-1.0 Glutaminyl-Arginyl-Leucine <-->,0,EX_gluargleu[e],0,1000
+-1.0 Glutaminyl-Asparaginyl-Leucine <-->,0,EX_gluasnleu[e],0,1000
+-1.0 Glutamyl-Glutamate <-->,0,EX_gluglu[e],0,1000
+-1.0 Glutamyl-Isoleucyl-Lysine <-->,0,EX_gluilelys[e],0,1000
+-1.0 Glutamyl-Leucine <-->,0,EX_gluleu[e],0,1000
+-1.0 Glutamyl-Methionine <-->,0,EX_glumet[e],0,1000
+-1.0 Glutamyl-Methioninyl-Histidine <-->,0,EX_glumethis[e],0,1000
+-1.0 Glutamyl-Threonine <-->,0,EX_gluthr[e],0,1000
+-1.0 Glutamyl-Threonyl-Lysine <-->,0,EX_gluthrlys[e],0,1000
+-1.0 Glutamyl-Tryptophanyl-Alanine <-->,0,EX_glutrpala[e],0,1000
+-1.0 Glycyl-Histidyl-Asparagine <-->,0,EX_glyhisasn[e],0,1000
+-1.0 Glycyl-Histidyl-Lysine <-->,0,EX_glyhislys[e],0,1000
+-1.0 Glycyl-Lysyl-Cysteine <-->,0,EX_glylyscys[e],0,1000
+-1.0 Glycyl-Lysyl-Phenylalanine <-->,0,EX_glylysphe[e],0,1000
+-1.0 Glycyl-Tyrosyl-Lysine <-->,0,EX_glytyrlys[e],0,1000
+-1.0 Glycyl-Valyl-Histidine <-->,0,EX_glyvalhis[e],0,1000
+-1.0 Histidyl-Arginyl-Cysteine <-->,0,EX_hisargcys[e],0,1000
+-1.0 Histidyl-Arginyl-Serine <-->,0,EX_hisargser[e],0,1000
+-1.0 Histidyl-Aspartate <-->,0,EX_hisasp[e],0,1000
+-1.0 Histidyl-Cystyl-Cysteine <-->,0,EX_hiscyscys[e],0,1000
+-1.0 Histidyl-Glutaminyl-Alanine <-->,0,EX_hisglnala[e],0,1000
+-1.0 Histidyl-Glutamate <-->,0,EX_hisglu[e],0,1000
+-1.0 Histidyl-Glutamyl-Glutamine <-->,0,EX_hisglugln[e],0,1000
+-1.0 Histidyl-Lysyl-Lysine <-->,0,EX_hisglylys[e],0,1000
+-1.0 Histidyl-Histidyl-Lysine <-->,0,EX_hishislys[e],0,1000
+-1.0 Histidyl-Lysyl-Alanine <-->,0,EX_hislysala[e],0,1000
+-1.0 Histidyl-Lysyl-Glutamate <-->,0,EX_hislysglu[e],0,1000
+-1.0 Histidyl-Lysyl-Isoleucine <-->,0,EX_hislysile[e],0,1000
+-1.0 Histidyl-Lysyl-Threonine <-->,0,EX_hislysthr[e],0,1000
+-1.0 Histidyl-Lysyl-Valine <-->,0,EX_hislysval[e],0,1000
+-1.0 Histidyl-Methionine <-->,0,EX_hismet[e],0,1000
+-1.0 Histidyl-Methionyl-Glutamine <-->,0,EX_hismetgln[e],0,1000
+-1.0 Histidyl-Phenylalanyl-Arginine <-->,0,EX_hisphearg[e],0,1000
+-1.0 Histidyl-Prolyl-Lysine <-->,0,EX_hisprolys[e],0,1000
+-1.0 Histidyl-Tryptophanyl-Histidine <-->,0,EX_histrphis[e],0,1000
+-1.0 Isoleucyl-Arginyl-Isoleucine <-->,0,EX_ileargile[e],0,1000
+-1.0 Isoleucyl-Asparaginyl-Histidine <-->,0,EX_ileasnhis[e],0,1000
+-1.0 Isolecyl-Aspartate <-->,0,EX_ileasp[e],0,1000
+-1.0 Isolecyl-Glutaminyl-Glutamate <-->,0,EX_ileglnglu[e],0,1000
+-1.0 Isolecyl-Glycyl-Arginine <-->,0,EX_ileglyarg[e],0,1000
+-1.0 Isolecyl-Prolyl-Lysine <-->,0,EX_ileprolys[e],0,1000
+-1.0 Isolecyl-Seryl-Arginine <-->,0,EX_ileserarg[e],0,1000
+-1.0 Isolecyl-Tryptophanyl-Tyrosine <-->,0,EX_iletrptyr[e],0,1000
+-1.0 Leucyl-Alanyl-Arginine <-->,0,EX_leualaarg[e],0,1000
+-1.0 Leucyl-Asparaginyl-Aspartate <-->,0,EX_leuasnasp[e],0,1000
+-1.0 Leucyl-Aspartyl-Lysine <-->,0,EX_leuasplys[e],0,1000
+-1.0 Leucyl-Leucyl-Tryptophan <-->,0,EX_leuleutrp[e],0,1000
+-1.0 Leucyl-Proline <-->,0,EX_leupro[e],0,1000
+-1.0 Leucyl-Prolyl-Arginine <-->,0,EX_leuproarg[e],0,1000
+-1.0 Leucyl-Seryl-Tryptophan <-->,0,EX_leusertrp[e],0,1000
+-1.0 Leucyl-Tryptophan <-->,0,EX_leutrp[e],0,1000
+-1.0 Leucyl-Tryptophanyl-Arginine <-->,0,EX_leutrparg[e],0,1000
+-1.0 Leucyl-Tyrosyl-Tyrosine <-->,0,EX_leutyrtyr[e],0,1000
+-1.0 Leucyl-Valine <-->,0,EX_leuval[e],0,1000
+-1.0 Lysyl-Arginyl-Leucine <-->,0,EX_lysargleu[e],0,1000
+-1.0 Lysyl-Cysteinyl-Histidine <-->,0,EX_lyscyshis[e],0,1000
+-1.0 Lysyl-Glutaminyl-Phenylalanine <-->,0,EX_lysglnphe[e],0,1000
+-1.0 Lysyl-Glutamyl-Glutamate <-->,0,EX_lysgluglu[e],0,1000
+-1.0 Lysyl-Lysyl-Lysine <-->,0,EX_lyslyslys[e],0,1000
+-1.0 Lysyl-Phenylalanyl-Isoleucine <-->,0,EX_lyspheile[e],0,1000
+-1.0 Lysyl-Tryptophanyl-Arginine <-->,0,EX_lystrparg[e],0,1000
+-1.0 Lysyl-Tyrosyl-Isoleucine <-->,0,EX_lystyrile[e],0,1000
+-1.0 Lysyl-Valyl-Phenylalanine <-->,0,EX_lysvalphe[e],0,1000
+-1.0 Lysyl-Valyl-Tryptophan <-->,0,EX_lysvaltrp[e],0,1000
+-1.0 Methionyl-Arginyl-Leucine <-->,0,EX_metargleu[e],0,1000
+-1.0 Methionyl-Asparaginyl-Tyrosine <-->,0,EX_metasntyr[e],0,1000
+-1.0 Methionyl-Glutaminyl-Tyrosine <-->,0,EX_metglntyr[e],0,1000
+-1.0 Methionyl-Glycyl-Arginine <-->,0,EX_metglyarg[e],0,1000
+-1.0 Methionyl-Histidyl-Lysine <-->,0,EX_methislys[e],0,1000
+-1.0 Methionyl-Methionyl-Isoleucine <-->,0,EX_metmetile[e],0,1000
+-1.0 Methionyl-Phenylalanyl-Arginine <-->,0,EX_metphearg[e],0,1000
+-1.0 Methionyl-Tryptophanyl-Phenylalanine <-->,0,EX_mettrpphe[e],0,1000
+-1.0 Phenylalanyl-Asparaginyl-Methionine <-->,0,EX_pheasnmet[e],0,1000
+-1.0 Phenylalanyl-Aspartate <-->,0,EX_pheasp[e],0,1000
+-1.0 Phenylalanyl-Glutaminyl-Phenylalanine <-->,0,EX_pheglnphe[e],0,1000
+-1.0 Phenylalanyl-Leucine <-->,0,EX_pheleu[e],0,1000
+-1.0 Phenylalanyl-Leucyl-Aspartate <-->,0,EX_pheleuasp[e],0,1000
+-1.0 Phenylalanyl-Leucyl-Histidine <-->,0,EX_pheleuhis[e],0,1000
+-1.0 Phenylalanyl-Lysyl-Alanine <-->,0,EX_phelysala[e],0,1000
+-1.0 Phenylalanyl-Lysyl-Proline <-->,0,EX_phelyspro[e],0,1000
+-1.0 Phenylalanyl-Phenylalanine <-->,0,EX_phephe[e],0,1000
+-1.0 Phenylalanyl-Phenylalaninyl-Asparagine <-->,0,EX_phepheasn[e],0,1000
+-1.0 Phenylalanyl-Phenylalaninyl-Threonine <-->,0,EX_phephethr[e],0,1000
+-1.0 Phenylalanyl-Prolyl-Arginine <-->,0,EX_pheproarg[e],0,1000
+-1.0 Phenylalanyl-Seryl-Tryptophan <-->,0,EX_phesertrp[e],0,1000
+-1.0 Phenylalanyl-Threonyl-Lysine <-->,0,EX_phethrlys[e],0,1000
+-1.0 Phenylalanyl-Tryptophanyl-Leucine <-->,0,EX_phetrpleu[e],0,1000
+-1.0 Phenylalanyl-Tyrosine <-->,0,EX_phetyr[e],0,1000
+-1.0 Phenylalanyl-Tyrosinyl-Glutamine <-->,0,EX_phetyrgln[e],0,1000
+-1.0 Phenylalanyl-Tyrosinyl-Lysine <-->,0,EX_phetyrlys[e],0,1000
+-1.0 Prolyl-Arginyl-Aspartate <-->,0,EX_proargasp[e],0,1000
+-1.0 Prolyl-Arginyl-Cysteine <-->,0,EX_proargcys[e],0,1000
+-1.0 Prolyl-Asparaginyl-Cysteine <-->,0,EX_proasncys[e],0,1000
+-1.0 Prolyl-Cysteine <-->,0,EX_procys[e],0,1000
+-1.0 Prolyl-Glutaminyl-Proline <-->,0,EX_proglnpro[e],0,1000
+-1.0 Prolyl-Glutamatsyl-Lysine <-->,0,EX_proglulys[e],0,1000
+-1.0 Prolyl-Histidine <-->,0,EX_prohis[e],0,1000
+-1.0 Prolyl-Histidyl-Tyrosine <-->,0,EX_prohistyr[e],0,1000
+-1.0 Prolyl-Leucyl-Arginine <-->,0,EX_proleuarg[e],0,1000
+-1.0 Prolyl-Lysyl-Proline <-->,0,EX_prolyspro[e],0,1000
+-1.0 Prolyl-Phenylalanine <-->,0,EX_prophe[e],0,1000
+-1.0 Prolyl-Prolyl-Arginine <-->,0,EX_proproarg[e],0,1000
+-1.0 Prolyl-Prolyl-Proline <-->,0,EX_propropro[e],0,1000
+-1.0 Prolyl-Tryptophanyl-Lysine <-->,0,EX_protrplys[e],0,1000
+-1.0 Prolyl-Tryptophanyl-Threonine <-->,0,EX_protrpthr[e],0,1000
+-1.0 Prolyl-Valyl-Glutamine <-->,0,EX_provalgln[e],0,1000
+-1.0 Seryl-Arginyl-Alanine <-->,0,EX_serargala[e],0,1000
+-1.0 Seryl-Arginyl-Tryptophan <-->,0,EX_serargtrp[e],0,1000
+-1.0 Seryl-Cysteinyl-Arginine <-->,0,EX_sercysarg[e],0,1000
+-1.0 Seryl-Glycyl-Glutamate <-->,0,EX_serglyglu[e],0,1000
+-1.0 Seryl-Lysyl-Histidine <-->,0,EX_serlyshis[e],0,1000
+-1.0 Seryl-Phenylalanyl-Lysine <-->,0,EX_serphelys[e],0,1000
+-1.0 Seryl-Tryptophanyl-Histidine <-->,0,EX_sertrphis[e],0,1000
+-1.0 Threonyl-Arginyl-Tyrosine <-->,0,EX_thrargtyr[e],0,1000
+-1.0 Threonyl-Asparaginyl-Tyrosine <-->,0,EX_thrasntyr[e],0,1000
+-1.0 Threonyl-Glutaminyl-Glutamate <-->,0,EX_thrglnglu[e],0,1000
+-1.0 Threonyl-Glutaminyl-Tyrosine <-->,0,EX_thrglntyr[e],0,1000
+-1.0 Threonyl-Histidinyl-Histidine <-->,0,EX_thrhishis[e],0,1000
+-1.0 Threonyl-Isoleucyl-Arginine <-->,0,EX_thrilearg[e],0,1000
+-1.0 Threonyl-Methionyl-Arginine <-->,0,EX_thrmetarg[e],0,1000
+-1.0 Threonyl-Phenylalanyl-Arginine <-->,0,EX_thrphearg[e],0,1000
+-1.0 Threonyl-Seryl-Arginine <-->,0,EX_thrserarg[e],0,1000
+-1.0 Threonyl-Threonyl-Arginine <-->,0,EX_thrthrarg[e],0,1000
+-1.0 Threonyl-Tyrosyl-Methionine <-->,0,EX_thrtyrmet[e],0,1000
+-1.0 Tryptophanyl-Alanyl-Proline <-->,0,EX_trpalapro[e],0,1000
+-1.0 Tryptophanyl-Arginyl-Alanine <-->,0,EX_trpargala[e],0,1000
+-1.0 Tryptophanyl-Aspartyl-Aspartate <-->,0,EX_trpaspasp[e],0,1000
+-1.0 Tryptophanyl-Glutaminyl-Glutamine <-->,0,EX_trpglngln[e],0,1000
+-1.0 Tryptophanyl-Glutamyl-Glycine <-->,0,EX_trpglugly[e],0,1000
+-1.0 Tryptophanyl-Glutamyl-Leucine <-->,0,EX_trpgluleu[e],0,1000
+-1.0 Tryptophanyl-Glutamyl-Proline <-->,0,EX_trpglupro[e],0,1000
+-1.0 Tryptophanyl-Glutamyl-Tyrosine <-->,0,EX_trpglutyr[e],0,1000
+-1.0 Tryptophanyl-Glycyl-Leucine <-->,0,EX_trpglyleu[e],0,1000
+-1.0 Tryptophanyl-Glycyl-Phenylalanine <-->,0,EX_trpglyphe[e],0,1000
+-1.0 Tryptophanyl-Glycyl-Valine <-->,0,EX_trpglyval[e],0,1000
+-1.0 Tryptophanyl-Histidyl-Methionine <-->,0,EX_trphismet[e],0,1000
+-1.0 Tryptophanyl-Isoleucyl-Lysine <-->,0,EX_trpilelys[e],0,1000
+-1.0 Tryptophanyl-Isoleucyl-Tryptophan <-->,0,EX_trpiletrp[e],0,1000
+-1.0 Tryptophanyl-Leucyl-Valine <-->,0,EX_trpleuval[e],0,1000
+-1.0 Tryptophanyl-Lysine <-->,0,EX_trplys[e],0,1000
+-1.0 Tryptophanyl-Methionyl-Arginine <-->,0,EX_trpmetarg[e],0,1000
+-1.0 Tryptophanyl-Methionyl-Valine <-->,0,EX_trpmetval[e],0,1000
+-1.0 Tryptophanyl-Phenylalanine <-->,0,EX_trpphe[e],0,1000
+-1.0 Tryptophanyl-Prolyl-Glycine <-->,0,EX_trpprogly[e],0,1000
+-1.0 Tryptophanyl-Prolyl-Leucine <-->,0,EX_trpproleu[e],0,1000
+-1.0 Tryptophanyl-Prolyl-Valine <-->,0,EX_trpproval[e],0,1000
+-1.0 Tryptophanyl-Seryl-Tyrosine <-->,0,EX_trpsertyr[e],0,1000
+-1.0 Tryptophanyl-Threonyl-Glutamate <-->,0,EX_trpthrglu[e],0,1000
+-1.0 Tryptophanyl-Threonyl-Isoleucine <-->,0,EX_trpthrile[e],0,1000
+-1.0 Tryptophanyl-Threonyl-Tyrosine <-->,0,EX_trpthrtyr[e],0,1000
+-1.0 Tryptophanyl-Tyrosyl-Glutamine <-->,0,EX_trptyrgln[e],0,1000
+-1.0 Tryptophanyl-Tyrosyl-Tyrosine <-->,0,EX_trptyrtyr[e],0,1000
+-1.0 Tryptophanyl-Valyl-Aspartate <-->,0,EX_trpvalasp[e],0,1000
+-1.0 Tyrosyl-Alanine <-->,0,EX_tyrala[e],0,1000
+-1.0 Tyrosyl-Alaninyl-Phenylalanine <-->,0,EX_tyralaphe[e],0,1000
+-1.0 Tyrosyl-Arginyl-Glutamate <-->,0,EX_tyrargglu[e],0,1000
+-1.0 Tyrosyl-Arginyl-Serine <-->,0,EX_tyrargser[e],0,1000
+-1.0 Tyrosyl-Aspartyl-Arginine <-->,0,EX_tyrasparg[e],0,1000
+-1.0 Tyrosyl-Cysteinyl-Glycine <-->,0,EX_tyrcysgly[e],0,1000
+-1.0 Tyrosyl-Cysteinyl-Threonine <-->,0,EX_tyrcysthr[e],0,1000
+-1.0 Tyrosyl-Glutamate <-->,0,EX_tyrglu[e],0,1000
+-1.0 Tyrosyl-Leucyl-Arginine <-->,0,EX_tyrleuarg[e],0,1000
+-1.0 Tyrosyl-Phenylalanyl-Tyrosine <-->,0,EX_tyrphetyr[e],0,1000
+-1.0 Tyrosyl-Threonine <-->,0,EX_tyrthr[e],0,1000
+-1.0 Tyrosyl-Tryptophanyl-Phenylalanine <-->,0,EX_tyrtrpphe[e],0,1000
+-1.0 Tyrosyl-Tyrosine <-->,0,EX_tyrtyr[e],0,1000
+-1.0 Tyrosyl-Valyl-Methionine <-->,0,EX_tyrvalmet[e],0,1000
+-1.0 Valyl-Arginyl-Glycine <-->,0,EX_valarggly[e],0,1000
+-1.0 Valyl-Histidyl-Asparagine <-->,0,EX_valhisasn[e],0,1000
+-1.0 Valyl-Leucyl-Phenylalanine <-->,0,EX_valleuphe[e],0,1000
+-1.0 Valyl-Lysyl-Tyrosine <-->,0,EX_vallystyr[e],0,1000
+-1.0 Valyl-Phenylalanyl-Arginine <-->,0,EX_valphearg[e],0,1000
+-1.0 Valyl-Prolyl-Tryptophan <-->,0,EX_valprotrp[e],0,1000
+-1.0 Valyl-Seryl-Arginine <-->,0,EX_valserarg[e],0,1000
+-1.0 Valyl-Tryptophanyl-Phenylalanine <-->,0,EX_valtrpphe[e],0,1000
+-1.0 Valyl-Tryptophanyl-Valine <-->,0,EX_valtrpval[e],0,1000
+-1.0 Valyl-Valine <-->,0,EX_valval[e],0,1000
+-1.0 Tryptophanyl-Glycyl-Aspartate <-->,0,EX_trpglyasp[e],0,1000
+-1.0 SM pool <-->,0,EX_sphmyln_hs[e],0,1000
+-1.0 Hexanoate (N-C6:0) <-->,0,EX_hxa[e],0,1000
+-1.0 L-Homocystine <-->,0,EX_Lhcystin[e],0,1000
+-1.0 core 4 <-->,0,EX_core4[e],0,1000
+-1.0 F1alpha <-->,0,EX_f1a[e],0,1000
+-1.0 D-Galactosamine <-->,0,EX_galam[e],0,1000
+"-1.0 glcnac-alpha-1,4-core 1 <-->",0,EX_gncore1[e],0,1000
+-1.0 Menaquinone-10 <-->,0,EX_mqn10[e],0,1000
+-1.0 Menaquinone-11 <-->,0,EX_mqn11[e],0,1000
+-1.0 Menaquinone-7 <-->,0,EX_mqn7[e],0,1000
+-1.0 Menaquinone-9 <-->,0,EX_mqn9[e],0,1000
+-1.0 de-Fuc form of PA6 (wo peptide linkage) <-->,0,EX_s2l2n2m2m[e],0,1000
+-1.0 lipoamide <-->,0,EX_lpam[e],0,1000
+-1.0 N-acetylgalactosamine <-->,0,EX_acgal[e],0,1000
+-1.0 N-acetylneuraminate <-->,0,EX_acnam[e],0,1000
+-1.0 creatine-phosphate <-->,0,EX_pcreat[e],0,1000
+-1.0 cis-aconitate <-->,0,EX_HC00342[e],0,1000
+-1.0 azelaic acid <-->,0,EX_C08261[e],0,1000
+-1.0 phosphatidate-LD-TAG pool <-->,0,EX_pa_hs[e],0,1000
+-1.0 O-methylhippurate <-->,0,EX_CE2934[e],0,1000
+-1.0 glycogenin G4G4 <-->,0,EX_dxtrn[e],0,1000
+"-1.0 3alpha,7alpha-dihydroxy-5beta-cholestanate <-->",0,EX_dhcholestanate[e],0,1000
+"-1.0 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanate <-->",0,EX_thcholstoic[e],0,1000
+"-1.0 5beta-cholestane-3alpha,7alpha,26-triol <-->",0,EX_xol7ah3[e],0,1000
+-1.0 7alpha-hydroxycholest-4-en-3-one <-->,0,EX_xol7aone[e],0,1000
+"-1.0 7alpha,12alpha-dihydroxycholest-4-en-3-one <-->",0,EX_xoldiolone[e],0,1000
+-1.0 7-Ketolithocholate <-->,0,EX_7klitchol[e],0,1000
+-1.0 2-oxobutyrate <-->,0,EX_2obut[e],0,1000
+-1.0 Glutarate <-->,0,EX_glutar[e],0,1000
+-1.0 D-gluconic acid <-->,0,EX_glcn[e],0,1000
+-1.0 fumarate <-->,0,EX_fum[e],0,1000
+-1.0 Glycylleucine <-->,0,EX_glyleu[e],0,1000
+-1.0 Glycyl-Phenylalanine <-->,0,EX_glyphe[e],0,1000
+-1.0 Glycylproline <-->,0,EX_glypro[e],0,1000
+-1.0 malate <-->,0,EX_mal_L[e],0,1000
+-1.0 PPi <-->,0,EX_ppi[e],0,1000
+-1.0 indoleacetate <-->,0,EX_ind3ac[e],0,1000
+-1.0 NH4+ <-->,0,EX_nh4[e],0,1000
+-1.0 galactitol <-->,0,EX_galt[e],0,1000
+-1.0 D-glucarate <-->,0,EX_glcr[e],0,1000
+-1.0 glucuronate <-->,0,EX_glcur[e],0,1000
+-1.0 Maltohexaose <-->,0,EX_malthx[e],0,1000
+-1.0 putrescine <-->,8.10E-05,EX_ptrc[e],-8.10E-05,1000
+-1.0 spermidine <-->,0,EX_spmd[e],0,1000
+-1.0 xanthine <-->,0,EX_xan[e],0,1000
+-1.0 4-hydroxybenzoate <-->,0,EX_4hbz[e],0,1000
+"-1.0 3,4-dihydroxyphenylacetate <-->",0,EX_34dhpha[e],0,1000
+-1.0 Menaquinone-8 <-->,0,EX_mqn8[e],0,1000
+-1.0 Indole <-->,0,EX_indole[e],0,1000
+-1.0 Methanethiol <-->,0,EX_ch4s[e],0,1000
+-1.0 phenylpyruvate <-->,0,EX_phpyr[e],0,1000
+-1.0 tyramine <-->,0,EX_tym[e],0,1000
+-1.0 2-hydroxyphenylacetate <-->,0,EX_2hyoxplac[e],0,1000
+-1.0 lanosterol <-->,0,EX_lanost[e],0,1000
+-1.0 vanillylmandelate <-->,0,EX_3mox4hoxm[e],0,1000
+-1.0 glyoxalate <-->,0,EX_glx[e],0,1000
+-1.0 2-methylbutyrylglycine <-->,0,EX_CE4970[e],0,1000
+-1.0 3-methylcrotonoylglycine <-->,0,EX_CE2026[e],0,1000
+-1.0 isovalerylglycine <-->,0,EX_CE4968[e],0,1000
+-1.0 N-Acetyl-Tyrosine <-->,0,EX_actyr[e],0,1000
+-1.0 Succinylacetone <-->,0,EX_sucaceto[e],0,1000
+-1.0 Vanil-Lactate <-->,0,EX_vanillac[e],0,1000
+-1.0 N-Acetylvanilalanine <-->,0,EX_nacvanala[e],0,1000
+-1.0 2-Hydroxy-3-Methyl-Valerate <-->,0,EX_2h3mv[e],0,1000
+-1.0 2-Hydroxy-Isovalerate <-->,0,EX_2hiv[e],0,1000
+-1.0 2-Methyl-3-Hydroxy-Butyrate <-->,0,EX_2m3hbu[e],0,1000
+-1.0 2-Methyl-3-Hydroxy-Valerate <-->,0,EX_2m3hvac[e],0,1000
+-1.0 3-Hydroxy-3-Methyl-Glutarate <-->,0,EX_3h3mglt[e],0,1000
+-1.0 3-Methyl-Glutaconate <-->,0,EX_3mglutac[e],0,1000
+-1.0 3-Methyl-Glutarate <-->,0,EX_3mglutr[e],0,1000
+-1.0 Propionyl-Glycine <-->,0,EX_ppiogly[e],0,1000
+-1.0 Mevalonate-Lactone <-->,0,EX_mvlac[e],0,1000
+-1.0 Tiglyl Glycine <-->,0,EX_tiggly[e],0,1000
+-1.0 3-Hydroxy-Glutarate <-->,0,EX_3ohglutac[e],0,1000
+-1.0 Glutaconate <-->,0,EX_glutcon[e],0,1000
+-1.0 3-Hydroxyisovaleric Acid <-->,0,EX_3hivac[e],0,1000
+-1.0 3-Hydroxy-Adipate <-->,0,EX_3hadpac[e],0,1000
+-1.0 3-Hydroxy-Sebacic Acid <-->,0,EX_3ohsebac[e],0,1000
+-1.0 3-Hydoxy-Suberic Acid <-->,0,EX_3ohsubac[e],0,1000
+-1.0 5-Hydroxyhexanoic Acid <-->,0,EX_5ohhexa[e],0,1000
+-1.0 7-Hydroxy-Octanoate <-->,0,EX_7ohocata[e],0,1000
+-1.0 Ethylmalonic Acid <-->,0,EX_ethmalac[e],0,1000
+-1.0 Hexanoyl-Glycine <-->,0,EX_hexgly[e],0,1000
+-1.0 Methyl-Succinate <-->,0,EX_methsucc[e],0,1000
+-1.0 Suberyl-Glycine <-->,0,EX_subgly[e],0,1000
+-1.0 4-Hydroxy-Butyrate <-->,0,EX_4ohbut[e],0,1000
+-1.0 2-Hydroxy-Isocaproate <-->,0,EX_2hxic_L[e],0,1000
+-1.0 2-Hydroxy-Glutarate <-->,0,EX_2hydog[e],0,1000
+"-1.0 7Z,10Z-Hexadecadienoic Acid <-->",0,EX_thexdd[e],0,1000
+"-1.0 (Z,Z,Z)-7,10,13-Hexadecatrienoic Acid <-->",0,EX_hexdtr[e],0,1000
+-1.0 Trans-Delta-2-Heptadecanoic Acid <-->,0,EX_hpdece[e],0,1000
+"-1.0 Trans,Cis,Cis-2,11,14-Eicosatrienoic Acid <-->",0,EX_eic21114tr[e],0,1000
+"-1.0 5,8,11,14,17-Eicosapentenoic Acid <-->",0,EX_5eipenc[e],0,1000
+-1.0 isobutyrylglycine <-->,0,EX_CE4969[e],0,1000
+-1.0 N-acetyl-L-cysteine <-->,0,EX_CE1310[e],0,1000
+-1.0 4-coumarate <-->,0,EX_T4hcinnm[e],0,1000
+-1.0 succinate semialdehyde <-->,0,EX_sucsal[e],0,1000
+-1.0 15(R)-HEPE <-->,0,EX_CE7081[e],0,1000
+-1.0 ecgonine-methyl ester <-->,0,EX_egme[e],0,1000
+-1.0 12-hydroxy-arachidonate <-->,0,EX_12harachd[e],0,1000
+-1.0 18-hydroxy-arachidonate <-->,0,EX_18harachd[e],0,1000
+-1.0 squalene <-->,0,EX_sql[e],0,1000
+-1.0 5-guanidino-2-oxopentanoate <-->,0,EX_5g2oxpt[e],0,1000
+"-1.0 4-androstene-3,17-dione <-->",0,EX_andrstndn[e],0,1000
+-1.0 dehydroepiandrosterone <-->,0,EX_dhea[e],0,1000
+-1.0 16alpha-hydroxydehydroepiandrosterone <-->,0,EX_eandrstrn[e],0,1000
+"-1.0 5alpha-androstane-3,17-dione <-->",0,EX_andrstandn[e],0,1000
+"-1.0 5alpha-androstane-3alpha,17beta-diol <-->",0,EX_CE2209[e],0,1000
+-1.0 estrone <-->,0,EX_estrone[e],0,1000
+-1.0 2-hydroxyestrone <-->,0,EX_C05298[e],0,1000
+-1.0 2-hydroxyestradiol-17beta <-->,0,EX_C05301[e],0,1000
+-1.0 2-methoxyestrone <-->,0,EX_C05299[e],0,1000
+-1.0 2-methoxyestradiol-17beta <-->,0,EX_C05302[e],0,1000
+-1.0 21-hydroxyallopregnanolone <-->,0,EX_CE5072[e],0,1000
+-1.0 11-deoxycortisol <-->,0,EX_11docrtsl[e],0,1000
+-1.0 11-deoxycorticosterone <-->,0,EX_11docrtstrn[e],0,1000
+-1.0 pregnenolone <-->,0,EX_prgnlone[e],0,1000
+-1.0 allopregnanolone <-->,0,EX_CE2211[e],0,1000
+-1.0 17alpha-hydroxyprogesterone <-->,0,EX_17ahprgstrn[e],0,1000
+-1.0 17alpha-hydroxypregnenolone <-->,0,EX_17ahprgnlone[e],0,1000
+"-1.0 5alpha-pregnane-3,20-dione <-->",0,EX_C03681[e],0,1000
+-1.0 cholesterol-ester-palm <-->,0,EX_HC02020[e],0,1000
+-1.0 pregnenolone sulfate <-->,0,EX_prgnlones[e],0,1000
+-1.0 17alpha-hydroxypregnenolone sulfate <-->,0,EX_CE1352[e],0,1000
+-1.0 24-hydroxycholesterol <-->,0,EX_xol24oh[e],0,1000
+-1.0 26-hydroxycholesterol <-->,0,EX_xol27oh[e],0,1000
+-1.0 25-hydroxycholesterol <-->,0,EX_xol25oh[e],0,1000
+-1.0 desmosterol <-->,0,EX_dsmsterol[e],0,1000
+-1.0 cholesterol-sulfate <-->,0,EX_chsterols[e],0,1000
+-1.0 3-iodo-L-tyrosine <-->,0,EX_3ityr_L[e],0,1000
+"-1.0 3,5-diiodo-L-tyrosine <-->",0,EX_35diotyr[e],0,1000
+-1.0 13-cis-retinoate <-->,0,EX_13_cis_retn[e],0,1000
+-1.0 9-cis-retinoate <-->,0,EX_CE1617[e],0,1000
+"-1.0 2,5-dihydroxybenzoate <-->",0,EX_HC00460[e],0,1000
+"-1.0 3,4-dihydroxymandelate <-->",0,EX_34dhoxmand[e],0,1000
+-1.0 formyl-N-acetyl-5-methoxykynurenamine <-->,0,EX_fna5moxam[e],0,1000
+-1.0 peroxynitrite <-->,0,EX_CE5643[e],0,1000
+-1.0 (18R)-HEPE <-->,0,EX_CE7090[e],0,1000
+-1.0 5(S)-HEPE <-->,0,EX_CE7085[e],0,1000
+"-1.0 5,15-DiHETE <-->",0,EX_CE7096[e],0,1000
+-1.0 15-deoxy-prostaglandin J2 <-->,0,EX_CE4877[e],0,1000
+-1.0 11-dehydro-thromboxane B2 <-->,0,EX_CE1447[e],0,1000
+-1.0 4-hydroxy-2-nonenal <-->,0,EX_CE2006[e],0,1000
+-1.0 homocysteine-thiolactone <-->,0,EX_CE1401[e],0,1000
+-1.0 gamma-glutamyl-cysteine <-->,0,EX_glucys[e],0,1000
+-1.0 N8-acetylspermidine <-->,0,EX_n8aspmd[e],0,1000
+-1.0 5-methoxytryptophol <-->,0,EX_CE6205[e],0,1000
+-1.0 melatonin <-->,0,EX_melatn[e],0,1000
+-1.0 6-hydroxymelatonin <-->,0,EX_6hoxmelatn[e],0,1000
+-1.0 tryptamine <-->,0,EX_trypta[e],0,1000
+-1.0 picolinic acid <-->,0,EX_C10164[e],0,1000
+-1.0 N-methylsalsolinol <-->,0,EX_CE4890[e],0,1000
+-1.0 salsolinol <-->,0,EX_C09642[e],0,1000
+-1.0 uroporphyrin I <-->,0,EX_C05767[e],0,1000
+-1.0 N-methylhistamine <-->,0,EX_mhista[e],0,1000
+-1.0 porphobilinogen <-->,0,EX_ppbng[e],0,1000
+"-1.0 1,3-diaminopropane <-->",0,EX_13dampp[e],0,1000
+-1.0 methylamine <-->,0,EX_mma[e],0,1000
+"-1.0 propane-1,2-diol <-->",0,EX_12ppd_R[e],0,1000
+-1.0 S-adenosylmethioninamine <-->,0,EX_ametam[e],0,1000
+-1.0 L-xylulose <-->,0,EX_xylu_L[e],0,1000
+-1.0 D-xylulose <-->,0,EX_xylu_D[e],0,1000
+-1.0 malonic-dialdehyde <-->,0,EX_CE0737[e],0,1000
+-1.0 sphingosine <-->,0,EX_sphings[e],0,1000
+-1.0 hexadecenoylcarnitine(9) <-->,0,EX_hdd2crn[e],0,1000
+-1.0 imidazole-4-acetate <-->,0,EX_im4ac[e],0,1000
+-1.0 5-hydroxytryptophol <-->,0,EX_CE1918[e],0,1000
+"-1.0 5,10-methylene-THF <-->",0,EX_mlthf[e],0,1000
+-1.0 protoporphyrin <-->,0,EX_ppp9[e],0,1000
+-1.0 aminoacetone <-->,0,EX_aact[e],0,1000
+-1.0 quinonoid dihydrobiopterin <-->,0,EX_CE2705[e],0,1000
+-1.0 sphinganine <-->,0,EX_sphgn[e],0,1000
+-1.0 selenomethionine <-->,0,EX_selmeth[e],0,1000
+-1.0 N1-acetylspermidine <-->,0,EX_N1aspmd[e],0,1000
+-1.0 calcitriol <-->,0,EX_1a25dhvitd3[e],0,1000
+-1.0 pristanic acid <-->,0,EX_prist[e],0,1000
+"-1.0 12,13-hydroxyoctadec-9(z)-enoate <-->",0,EX_CE2049[e],0,1000
+"-1.0 9,10-hydroxyoctadec-12(Z)-enoate <-->",0,EX_CE2047[e],0,1000
+"-1.0 fructose-1,6-bisphosphate <-->",0,EX_fdp[e],0,1000
+-1.0 cocaine <-->,0,EX_coke[e],0,1000
+-1.0 5-amino-2-oxopentanoic acid <-->,0,EX_5a2opntn[e],0,1000
+-1.0 Very Low Density Lipoprotein <-->,0,EX_vldl_hs[e],0,1000
+-1.0 Intermediate Density Lipoprotein <-->,0,EX_idl_hs[e],0,1000
+-1.0 Low Density Lipoprotein <-->,0,EX_ldl_hs[e],0,1000
+-1.0 High Density Lipoprotein <-->,0,EX_hdl_hs[e],0,1000
+-1.0 apoB100 <-->,0,EX_HC00005[e],0,1000
+-1.0 apoC1 <-->,0,EX_HC00006[e],0,1000
+-1.0 apoC2 <-->,0,EX_HC00007[e],0,1000
+-1.0 apoC3 <-->,0,EX_HC00008[e],0,1000
+-1.0 apoE <-->,0,EX_HC00009[e],0,1000
+-1.0 Dopamine 4-O-Sulphate <-->,0,EX_dopa4sf[e],0,1000
+-1.0 Dopamine-4-O-Glucuronide <-->,0,EX_dopa4glcur[e],0,1000
+-1.0 Dopamine-3-O-Glucuronide <-->,0,EX_dopa3glcur[e],0,1000
+"-1.0 4-S-Glutathionyl-5,6-Dihydroxyindoline <-->",0,EX_4glu56dihdind[e],0,1000
+-1.0 5-S-Cysteinyldopamine <-->,0,EX_5cysdopa[e],0,1000
+-1.0 5-S-glutathionyl-dopamine <-->,0,EX_CE5025[e],0,1000
+"-1.0 6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline <-->",0,EX_CE2172[e],0,1000
+"-1.0 1,2-dehydrosalsolinol <-->",0,EX_CE5629[e],0,1000
+-1.0 GD3 <-->,0,EX_gd3_hs[e],0,1000
+-1.0 glucosylceramide pool <-->,0,EX_gluside_hs[e],0,1000
+-1.0 GM3 <-->,0,EX_gm3_hs[e],0,1000
+-1.0 CMP-N-acetylneuraminate <-->,0,EX_cmpacna[e],0,1000
+-1.0 GD2 <-->,0,EX_gd2_hs[e],0,1000
+-1.0 GD1a <-->,0,EX_gd1a_hs[e],0,1000
+"-1.0 3,4-Dihydroxyphenylethanol <-->",0,EX_34dhpe[c],0,1000
+-1.0 PI pool <-->,1000,EX_pail_hs[e],-1000,1000
+-1.0 12(S)-HHT <-->,0,EX_CE1243[e],0,1000
+-1.0 5-S-glutathionyl-L-dopa <-->,0,EX_CE5026[e],0,1000
+-1.0 5-S-Cysteinylglycine Dopa <-->,0,EX_5cysgly34dhphe[e],0,1000
+-1.0 5-S-cysteinyldopa <-->,0,EX_CE1261[e],0,1000
+-1.0 Galactosyl Glucosyl Ceramide <-->,0,EX_galgluside_hs[e],0,1000
+-1.0 GA1 <-->,0,EX_ga1_hs[e],0,1000
+-1.0 GM1alpha <-->,0,EX_gm1a_hs[e],0,1000
+-1.0 GM2alpha <-->,0,EX_gm2a_hs[e],0,1000
+-1.0 Ganglioside Gm1 <-->,0,EX_gm1_hs[e],0,1000
+-1.0 GM1b <-->,0,EX_gm1b_hs[e],0,1000
+-1.0 GD1b <-->,0,EX_gd1b_hs[e],0,1000
+-1.0 GT1b <-->,0,EX_gt1b_hs[e],0,1000
+-1.0 NADH <-->,0,EX_nadh[e],0,1000
+"-1.0 12-Dehydrocholic acid; 12-Oxodeoxycholic acid; 12oxo-3alpha,7alpha-Dihydroxy-5beta-cholan-24-oic acid <-->",0,EX_12dhchol[e],0,1000
+-1.0 3-Dehydrochenodeoxychollyc acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid <-->,0,EX_3dhcdchol[e],0,1000
+"-1.0 3-Dehydrocholic acid; 3oxo-7alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid <-->",0,EX_3dhchol[e],0,1000
+-1.0 3-dehydro-Deoxycholate <-->,0,EX_3dhdchol[e],0,1000
+-1.0 3-dehydro-Lithocholate <-->,0,EX_3dhlchol[e],0,1000
+-1.0 7-Dehydrochenodeoxycholic acid; 7oxo-3alpha-hydroxy-5beta-cholan-24-oic acid <-->,0,EX_7dhcdchol[e],0,1000
+"-1.0 7-Dehydrocholic acid; 7-Oxodeoxycholic acid; 7oxo-3alpha,12alpha-Dihydroxy-5beta-cholan-24-oic acid <-->",0,EX_7dhchol[e],0,1000
+"-1.0 Cholic acid-24glucuronide, CA-24G <-->",0,EX_ca24g[e],0,1000
+-1.0 Cholic acid 3-sulfate <-->,0,EX_ca3s[e],0,1000
+"-1.0 Chenodeoxycholic acid-24glucuronide, CDCA-24G <-->",0,EX_cdca24g[e],0,1000
+"-1.0 Chenodeoxycholic acid-3glucuronide, CDCA-3G <-->",0,EX_cdca3g[e],0,1000
+-1.0 Coprostanol <-->,0,EX_coprost[e],0,1000
+"-1.0 Deoxycholic acid-24glucuronide, CDA-24G <-->",0,EX_dca24g[e],0,1000
+"-1.0 Deoxycholic acid-3glucuronide, CDA-3G <-->",0,EX_dca3g[e],0,1000
+-1.0 Deoxycholic acid 3-sulfate <-->,0,EX_dca3s[e],0,1000
+-1.0 Glycocholic acid 3-sulfate <-->,0,EX_gca3s[e],0,1000
+-1.0 Glycochenodeoxycholic acid 3-sulfate <-->,0,EX_gcdca3s[e],0,1000
+-1.0 Glycodeoxycholic acid 3-sulfate <-->,0,EX_gdca3s[e],0,1000
+-1.0 Glycoursodeoxycholic acid 3-sulfate <-->,0,EX_gudca3s[e],0,1000
+"-1.0 Hyocholic acid-24glucuronide, HCA-24G <-->",0,EX_hca24g[e],0,1000
+"-1.0 Hyocholic acid-6glucuronide, HCA-6G <-->",0,EX_hca6g[e],0,1000
+"-1.0 Hyodeoxycholic acid-24glucuronide, HDCA-24G <-->",0,EX_hdca24g[e],0,1000
+"-1.0 Hyodeoxycholic acid-6glucuronide, HDCA-6G <-->",0,EX_hdca6g[e],0,1000
+-1.0 Hyocholic acid; gamma-Muricholate <-->,0,EX_hyochol[e],0,1000
+"-1.0 Isochenodeoxycholic acid; 3beta,7alpha-Dihydroxy-5beta-cholanic acid <-->",0,EX_icdchol[e],0,1000
+"-1.0 Isochenodeoxycholic acid; 3beta,7alpha,12alpha-Trihydroxy-5beta-cholanic acid <-->",0,EX_isochol[e],0,1000
+"-1.0 Lithocholic acid-24glucuronide, CDCA-24G <-->",0,EX_lca24g[e],0,1000
+"-1.0 Lithocholic acid-3glucuronide, CDCA-3G <-->",0,EX_lca3g[e],0,1000
+-1.0 Lithocholic acid 3-sulfate <-->,0,EX_lca3s[e],0,1000
+-1.0 Taurocholic acid 3-sulfate <-->,0,EX_tca3s[e],0,1000
+-1.0 Taurochenodeoxycholic acid 3-sulfate <-->,0,EX_tcdca3s[e],0,1000
+-1.0 Taurodeoxycholic acid 3-sulfate <-->,0,EX_tdca3s[e],0,1000
+"-1.0 Taurohyocholic acid; N-(3alpha,6alpha,7alpha-Trihydroxy-5beta-cholan-24-oyl)taurine <-->",0,EX_thyochol[e],0,1000
+-1.0 Tauroursodeoxycholic acid 3-sulfate <-->,0,EX_tudca3s[e],0,1000
+"-1.0 Ursocholic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholan-24-oic acid; 3alpha,7beta,12alpha-Trihydroxy-5beta-cholanic acid; 7beta-Hydroxyisocholic acid; 7-Epicholic acid <-->",0,EX_uchol[e],0,1000
+-1.0 Ursodeoxycholic acid 3-sulfate <-->,0,EX_udca3s[e],0,1000
+"-1.0 12-HT or M-VI, 12-hydroxy tacrolimus <-->",0,EX_12htacr[e],0,1000
+"-1.0 13,31-O-Didesmethyl-tacrolimus <-->",0,EX_1331tacr[e],0,1000
+"-1.0 13-O-desmethyl tacrolimus, 13-DMT or M-I <-->",0,EX_13dmt[e],0,1000
+"-1.0 1,4-Dihydroxy-midazolam <-->",0,EX_14hmdz[e],0,1000
+"-1.0 13,15-O-didesmethyl tacrolimus <-->",0,EX_1513tacr[e],0,1000
+"-1.0 15,31-O-Didesmethyl-tacrolimus <-->",0,EX_1531tacr[e],0,1000
+"-1.0 15-DMT or M-III, 15-O-desmethyl tacrolimus <-->",0,EX_15dmt[e],0,1000
+-1.0 1-hydroxy S-ibuprofen <-->,0,EX_1hibup_S[e],0,1000
+-1.0 1-hydroxy S-ibuprofen-glucuronide <-->,0,EX_1hibupglu_S[e],0,1000
+-1.0 1'-OH-midazolam-glucuronide <-->,0,EX_1hmdgluc[e],0,1000
+-1.0 1'-OH-midazolam <-->,0,EX_1ohmdz[e],0,1000
+-1.0 2-hydroxy-atorvastatin-acid / ortho-hydroxy-atorvastatin acid <-->,0,EX_2hatvacid[e],0,1000
+-1.0 2-hydroxy-atorvastatin-acyl-glucuronide <-->,0,EX_2hatvacidgluc[e],0,1000
+-1.0 2-hydroxy-atorvastatin-lactone / ortho-hydroxy-atorvastatin lactone <-->,0,EX_2hatvlac[e],0,1000
+-1.0 2-hydroxy-atorvastatin-lactone-glucuronide <-->,0,EX_2hatvlacgluc[e],0,1000
+-1.0 2-hydroxy-R-ibuprofen <-->,0,EX_2hibup_R[e],0,1000
+-1.0 2-hydroxy-S-ibuprofen <-->,0,EX_2hibup_S[e],0,1000
+-1.0 2-hydroxy S-ibuprofen-glucuronide <-->,0,EX_2hibupglu_S[e],0,1000
+"-1.0 31-DMT or M-II, 31-O-desmethyl tacrolimus <-->",0,EX_31dmt[e],0,1000
+"-1.0 3'-alpha,5'beta-dihydroxy-pravastatin / 3'-alpha5'beta6'beta-trihydroxy pravastatin <-->",0,EX_35dhpvs[e],0,1000
+"-1.0 3',5'-dihydrodiol-simvastatin-lactone form <-->",0,EX_35dsmv[e],0,1000
+-1.0 3-hydroxy R-ibuprofen <-->,0,EX_3hibup_R[e],0,1000
+-1.0 3-hydroxy S-ibuprofen <-->,0,EX_3hibup_S[e],0,1000
+-1.0 3-hydroxy S-ibuprofen-glucuronide <-->,0,EX_3hibupglu_S[e],0,1000
+-1.0 3''-hydroxy-lovastatin acid form <-->,0,EX_3hlvstacid[e],0,1000
+-1.0 3'-S-hydroxy-pravastatin <-->,0,EX_3hpvs[e],0,1000
+-1.0 3'-S-hydroxy-pravastatin-tetranor <-->,0,EX_3hpvstet[e],0,1000
+-1.0 3'-hydroxy-simvastatin-acid form <-->,0,EX_3hsmvacid[e],0,1000
+-1.0 3-alpha-iso-pravastatin <-->,0,EX_3ispvs[e],0,1000
+-1.0 3-hydroxy-acetaminophen <-->,0,EX_3ohacmp[e],0,1000
+-1.0 4-beta-OH-gliclazide <-->,0,EX_4bhglz[e],0,1000
+-1.0 4-hydroxy-atorvastatin-acid / para-hydroxy-atorvastatin acid <-->,0,EX_4hatvacid[e],0,1000
+-1.0 4-hydroxy-atorvastatin-lactone / para-hydroxy-atorvastatin lactone <-->,0,EX_4hatvlac[e],0,1000
+-1.0 4-OH-midazolam-glucuronide <-->,0,EX_4hmdgluc[e],0,1000
+-1.0 4-OH-midazolam <-->,0,EX_4ohmdz[e],0,1000
+"-1.0 3-keto-5,6,-dihydroxy-pravastatin <-->",0,EX_56dhpvs[e],0,1000
+"-1.0 5,6-epoxy-3-alpha-iso-pravastatin <-->",0,EX_56eppvs[e],0,1000
+-1.0 5-hydroxy-fluvastatin <-->,0,EX_5ohfvs[e],0,1000
+-1.0 5-hydroxy-fluvastatin-glucuronide <-->,0,EX_5ohfvsglu[e],0,1000
+-1.0 6-alpha-OH-gliclazide <-->,0,EX_6ahglz[e],0,1000
+-1.0 6-beta-OH-gliclazide <-->,0,EX_6bhglz[e],0,1000
+-1.0 6-beta-OH-gliclazide-glucuronide <-->,0,EX_6bhglzglc[e],0,1000
+-1.0 6'-beta-carboxy-simvastatin-acid form <-->,0,EX_6csmvacid[e],0,1000
+-1.0 6-epipravastatin <-->,0,EX_6epvs[e],0,1000
+-1.0 6'-beta-hydroxy-lovastatin lactone form <-->,0,EX_6hlvst[e],0,1000
+-1.0 6'-beta-hydroxy-methyl-simvastatin-acid form <-->,0,EX_6hmsmvacid[e],0,1000
+-1.0 6'-beta-hydroxy simvastatin acid <-->,0,EX_6hsmvacid[e],0,1000
+-1.0 6'-exomethylene-lovastatin-acid form <-->,0,EX_6melvacid[e],0,1000
+-1.0 6'-exomethylene-lovastatin lactone form <-->,0,EX_6melvst[e],0,1000
+-1.0 6-hydroxy-fluvastatin <-->,0,EX_6ohfvs[e],0,1000
+-1.0 6-hydroxy-fluvastatin-glucuronide <-->,0,EX_6ohfvsglu[e],0,1000
+-1.0 7-alpha-OH-gliclazide <-->,0,EX_7ahglz[e],0,1000
+-1.0 7-beta-OH-gliclazide <-->,0,EX_7bhglz[e],0,1000
+-1.0 7-beta-OH-gliclazide-glucuronide <-->,0,EX_7bhglzglc[e],0,1000
+-1.0 7-hydroxy-3-alpha-iso-pravastatin <-->,0,EX_7hpvs[e],0,1000
+-1.0 acetaminophen/paracetamol <-->,0,EX_acmp[e],0,1000
+-1.0 Acetaminophen glucuronide <-->,0,EX_acmpglu[e],0,1000
+-1.0 acetaminophen-glutathione-conjugate <-->,0,EX_acmpglut[e],0,1000
+-1.0 allopurinol <-->,0,EX_allop[e],0,1000
+-1.0 AM19 (cyclosporine) <-->,0,EX_am19cs[e],0,1000
+-1.0 AM1A4N (cyclosporine) <-->,0,EX_am1a4ncs[e],0,1000
+-1.0 AM1Ac (cyclosporine) <-->,0,EX_am1accs[e],0,1000
+-1.0 AM1A (cyclosporine) <-->,0,EX_am1acs[e],0,1000
+-1.0 AM1AL (cyclosporine) <-->,0,EX_am1alcs[e],0,1000
+-1.0 AM1c4N9 (cyclosporine) <-->,0,EX_am1c4n9cs[e],0,1000
+-1.0 AM1c9 (cyclosporine) <-->,0,EX_am1c9cs[e],0,1000
+-1.0 AM1c (cyclosporine) <-->,0,EX_am1ccs[e],0,1000
+-1.0 AM1c-glucuronide (cyclosporine) <-->,0,EX_am1cglc[e],0,1000
+-1.0 AM1 (cyclosporine) <-->,0,EX_am1csa[e],0,1000
+-1.0 AM4N9 (cyclosporine) <-->,0,EX_am4n9cs[e],0,1000
+-1.0 AM4N (cyclosporine) <-->,0,EX_am4ncs[e],0,1000
+-1.0 AM9 (cyclosporine) <-->,0,EX_am9csa[e],0,1000
+-1.0 atorvastatin-acid <-->,0,EX_atvacid[e],0,1000
+-1.0 atorvastatin-lactone <-->,0,EX_atvlac[e],0,1000
+-1.0 R-carboxy ibuprofen <-->,0,EX_caribup_R[e],0,1000
+-1.0 S-carboxy ibuprofen <-->,0,EX_caribup_s[e],0,1000
+-1.0 S-carboxy ibuprofen glucuronide <-->,0,EX_caribupglu_S[e],0,1000
+-1.0 carboxy-gliclazide <-->,0,EX_crglz[e],0,1000
+-1.0 cerivastatin <-->,0,EX_crvs[e],0,1000
+-1.0 cerivastatin-M1 <-->,0,EX_crvsm1[e],0,1000
+-1.0 cerivastatin-M23 <-->,0,EX_crvsm23[e],0,1000
+-1.0 cerivastatin-M24 <-->,0,EX_crvsm24[e],0,1000
+-1.0 cyclosporine <-->,0,EX_csa[e],0,1000
+-1.0 cyclosporine-sulphate <-->,0,EX_csasulp[e],0,1000
+-1.0 cysteine-conjugate-acetaminophen <-->,0,EX_cysacmp[e],0,1000
+-1.0 deoxy-fluvastatin-dinor <-->,0,EX_deoxfvs[e],0,1000
+-1.0 N-desisopropyl-fluvastatin <-->,0,EX_desfvs[e],0,1000
+-1.0 dehydro-gliclazide <-->,0,EX_dhglz[e],0,1000
+-1.0 desacyl dehydro-pravastatin <-->,0,EX_dspvs[e],0,1000
+"-1.0 31-O-Desmethyl,19-Hydroxy,37, 39-Epoxy-tacrolimus <-->",0,EX_epoxtac[e],0,1000
+-1.0 fluvastatin <-->,0,EX_fvs[e],0,1000
+-1.0 des-isopropyl-dihydro-fluvastatin-tetranor <-->,0,EX_fvstet[e],0,1000
+-1.0 des-isopropyl-dihydro-fluvastatin-tetranor-glucuronide <-->,0,EX_fvstetglu[e],0,1000
+-1.0 glucuronide-conjugate of 3-methoxy-acetaminophen <-->,0,EX_glc3meacp[e],0,1000
+-1.0 Gliclazide <-->,0,EX_glz[e],0,1000
+-1.0 glucuronide-thiomethyl-acetaminophen conjugate <-->,0,EX_gtacmp[e],0,1000
+-1.0 ibuprofen-R <-->,0,EX_ibup_R[e],0,1000
+-1.0 ibuprofen-S <-->,0,EX_ibup_S[e],0,1000
+-1.0 ibuprofen acyl glucuronide <-->,0,EX_ibupgluc[e],0,1000
+"-1.0 3'-hydroxy-iso-delta-4',5'-hydroxy acid form of lovastatin <-->",0,EX_isolvstacid[e],0,1000
+-1.0 Losartan-E3174/ losartan-M6 <-->,0,EX_lst4exp[e],0,1000
+-1.0 Losartan <-->,0,EX_lstn[e],0,1000
+-1.0 Losartan-N1-glucuronide <-->,0,EX_lstn1gluc[e],0,1000
+-1.0 Losartan-M1 <-->,0,EX_lstnm1[e],0,1000
+-1.0 Losartan-M2 <-->,0,EX_lstnm2[e],0,1000
+-1.0 Losartan-M4 (glucuronide derivative) <-->,0,EX_lstnm4[e],0,1000
+-1.0 Losartan-M5 <-->,0,EX_lstnm5[e],0,1000
+-1.0 Losartan-N2-glucuronide / Losartan-M7 <-->,0,EX_lstnm7[e],0,1000
+-1.0 lovastatin lactone form <-->,0,EX_lvst[e],0,1000
+-1.0 Midazolam <-->,0,EX_mdz[e],0,1000
+-1.0 Midazolam-glucuronide <-->,0,EX_mdzglc[e],0,1000
+-1.0 acetaminophen-mercapturate-conjugate/N-acetyl-cysteine-acetaminophen <-->,0,EX_meracmp[e],0,1000
+-1.0 Methyl-hydroxy-gliclazide <-->,0,EX_mhglz[e],0,1000
+-1.0 N-desmethyl-rosuvastatin <-->,0,EX_ndersv[e],0,1000
+-1.0 Nifedipine <-->,0,EX_nfd[e],0,1000
+-1.0 acid metabolite of nifedipine <-->,0,EX_nfdac[e],0,1000
+-1.0 lactone form of nifedipine <-->,0,EX_nfdlac[e],0,1000
+-1.0 Nitropyridine metabolite of nifedipine <-->,0,EX_nfdnpy[e],0,1000
+-1.0 hydroxy metabolite of nifedipine <-->,0,EX_nfdoh[e],0,1000
+-1.0 oxypurinol <-->,0,EX_oxyp[e],0,1000
+-1.0 oxypurinol-1-riboside <-->,0,EX_oxyp1rb[e],0,1000
+-1.0 oxypurinol-7-riboside <-->,0,EX_oxyp7rb[e],0,1000
+-1.0 des-isoproylpropionic-acid-fluvastatin <-->,0,EX_profvs[e],0,1000
+-1.0 pitavastatin <-->,0,EX_ptvst[e],0,1000
+-1.0 pitavastatin-lactone <-->,0,EX_ptvstlac[e],0,1000
+-1.0 pitavastatin-M3 <-->,0,EX_ptvstm3[e],0,1000
+-1.0 pravastatin <-->,0,EX_pvs[e],0,1000
+-1.0 pravastatin glucuronide <-->,0,EX_pvsgluc[e],0,1000
+-1.0 rosuvastatin <-->,0,EX_rsv[e],0,1000
+-1.0 rosuvastatin-5S-lactone <-->,0,EX_rsvlac[e],0,1000
+-1.0 sulphate-conjugate-3-methoxy-acetaminophen <-->,0,EX_s3meacmp[e],0,1000
+-1.0 simvastatin lactone form <-->,0,EX_smv[e],0,1000
+-1.0 simvastatin dihydroxy acid form <-->,0,EX_smvacid[e],0,1000
+-1.0 sulphate-conjugate of thiomethyl-acetaminophen <-->,0,EX_stacmp[ev],0,1000
+-1.0 sulphate-conjugate-acetaminophen <-->,0,EX_sulpacmp[e],0,1000
+-1.0 Tacrolimus <-->,0,EX_tacr[e],0,1000
+-1.0 taurine conjugate of S-ibuprofen <-->,0,EX_tauribup_S[e],0,1000
+-1.0 threo-isomer of fluvastain <-->,0,EX_thrfvs[e],0,1000
+-1.0 trans-lactone-fluvastatin <-->,1000,EX_tlacfvs[e],-1000,1000
+-1.0 Torasemide <-->,0,EX_tmd[e],0,1000
+-1.0 Torasemide-M1 <-->,0,EX_tmdm1[e],0,1000
+-1.0 Torasemide-M3 <-->,0,EX_tmdm3[e],0,1000
+-1.0 Torasemide-M5 <-->,0,EX_tmdm5[e],0,1000
+-1.0 triol metabolite of pravastatin <-->,0,EX_tripvs[e],0,1000
+-1.0 thiomethyl-sulphoxide-acetaminophen-glucuronide <-->,0,EX_tsacmgluc[e],0,1000
+-1.0 thiomethyl-sulphoxide-acetaminophen-sulphate <-->,0,EX_tsacmsul[e],0,1000
+-1.0 lovastatin-hydroxyacid form <-->,0,EX_lvstacid[e],0,1000
+-1.0 pitavastatin-M13 <-->,0,EX_ptvstm13[e],0,1000
+"-1.0 1-alpha,25-dihydroxyvitamin D2 <-->",0,EX_1a25dhvitd2[e],0,1000
+-1.0 2-arachidonoylglycerol <-->,0,EX_C13856[e],0,1000
+-1.0 TAG-chylomicron pool <-->,0,EX_M02956[e],0,1000
+"-1.0 1,2-diacylglycerol-chylomicron pool <-->",0,EX_M00234[e],0,1000
+-1.0 fatty acid-chylomicron pool <-->,0,EX_M01807[e],0,1000
+-1.0 1-acylglycerol-chylomicron pool <-->,0,EX_M00503[e],0,1000
+"-1.0 1,2-diacylglycerol-VLDL pool <-->",0,EX_M00241[e],0,1000
+-1.0 fatty acid-VLDL pool <-->,0,EX_M01820[e],0,1000
+-1.0 1-acylglycerol-VLDL pool <-->,0,EX_M00510[e],0,1000
+-1.0 fatty acid-uptake pool <-->,0,EX_M01819[e],0,1000
+-1.0 (10Z)-heptadecenoic acid <-->,0,EX_M00003[e],0,1000
+"-1.0 (11Z,14Z)-eicosadienoic acid <-->",0,EX_M00008[e],0,1000
+"-1.0 (11Z,14Z,17Z)-eicosatrienoic acid <-->",0,EX_M00010[e],0,1000
+-1.0 (13Z)-eicosenoic acid <-->,0,EX_M00017[e],0,1000
+-1.0 (13Z)-octadecenoic acid <-->,0,EX_M00019[e],0,1000
+"-1.0 (13Z,16Z)-docosadienoic acid <-->",0,EX_M00021[e],0,1000
+-1.0 (7Z)-octadecenoic acid <-->,0,EX_M00115[e],0,1000
+-1.0 (7Z)-tetradecenoic acid <-->,0,EX_M00117[e],0,1000
+"-1.0 10,13,16,19-docosatetraenoic acid <-->",0,EX_M00260[e],0,1000
+"-1.0 10,13,16-docosatriynoic acid <-->",0,EX_M00265[e],0,1000
+"-1.0 12,15,18,21-tetracosatetraenoic acid <-->",0,EX_M00315[e],0,1000
+"-1.0 13,16,19-docosatrienoic acid <-->",0,EX_M00341[e],0,1000
+-1.0 7-palmitoleic acid <-->,0,EX_M01197[e],0,1000
+"-1.0 8,11-eicosadienoic acid <-->",0,EX_M01207[e],0,1000
+-1.0 9-eicosenoic acid <-->,0,EX_M01235[e],0,1000
+-1.0 9-heptadecylenic acid <-->,0,EX_M01238[e],0,1000
+-1.0 cis-cetoleic acid <-->,0,EX_M01582[e],0,1000
+-1.0 henicosanoic acid <-->,0,EX_M02053[e],0,1000
+-1.0 mead acid <-->,0,EX_M02457[e],0,1000
+-1.0 nonadecylic acid <-->,0,EX_M02613[e],0,1000
+-1.0 physeteric acid <-->,0,EX_M02745[e],0,1000
+-1.0 tricosanoic acid <-->,0,EX_M03045[e],0,1000
+-1.0 tridecylic acid <-->,0,EX_M03051[e],0,1000
+-1.0 ximenic acid <-->,0,EX_M03153[e],0,1000
+-1.0 activation-ppara <-->,0,EX_M01268[e],0,1000
+-1.0 bile-PC pool <-->,0,EX_HC02080[e],0,1000
+-1.0 carbonate <-->,0,EX_h2co3[e],0,1000
+-1.0 maltoheptaose <-->,0,EX_M02446[e],0,1000
+-1.0 maltohexaose <-->,0,EX_M02447[e],0,1000
+-1.0 maltopentaose <-->,0,EX_M02449[e],0,1000
+-1.0 maltotetraose <-->,0,EX_M02451[e],0,1000
+-1.0 retinyl palmitate <-->,1000,EX_M02837[e],-1000,1000
+-1.0 Li+ <-->,0,EX_M02382[e],0,1000
+-1.0 guanidine <-->,0,EX_M02035[e],0,1000
+-1.0 metformin <-->,0,EX_M02467[e],0,1000
+-1.0 quinidine <-->,0,EX_M02821[e],0,1000
+-1.0 Mg2+ <-->,0,EX_mg2[e],0,1000
+-1.0 Cu2+ <-->,0,EX_cu2[e],0,1000
+-1.0 cimetidine <-->,0,EX_M01571[e],0,1000
+-1.0 biomass <-->,1000,HMR_10024,-1000,1000
+-1.0 20-hydroxy-arachidonate <-->,0,HMR_10025,0,1000
+-1.0 chenodiol <-->,0,HMR_10026,0,1000
+-1.0 LacCer pool <-->,1000,HMR_10027,-1000,1000
+-1.0 Chylomicron Lipoprotein <-->,0,HMR_10028,0,1000
+-1.0 steroids <-->,0,HMR_10029,0,1000
+-1.0 xenobiotics <-->,0,HMR_10030,0,1000
+-1.0 arachidonate derivatives <-->,0,HMR_10031,0,1000
+-1.0 others <-->,0,HMR_10032,0,1000
+"-1.0 1,2-diacylglycerol-LD-PC pool <-->",0,HMR_10047,0,1000
+-1.0 N-formyl-L-glutamate <-->,0,HMR_10060,0,1000
+-1.0 alpha-muricholic acid <-->,0,HMR_10074,0,1000
+-1.0 beta-muricholic acid <-->,0,HMR_10076,0,1000
+-1.0 dehydrocholic acid <-->,0,HMR_10077,0,1000
+-1.0 tauro-alpha-muricholic acid <-->,0,HMR_10078,0,1000
+-1.0 omega-muricholic acid <-->,0,HMR_10081,0,1000
+-1.0 taurohyocholic acid <-->,0,HMR_10083,0,1000
+-1.0 glycohyocholic acid <-->,0,HMR_10084,0,1000
+-1.0 glycohyodeoxycholic acid <-->,0,HMR_10085,0,1000
+-1.0 glycodehydrocholic acid <-->,0,HMR_10086,0,1000
+-1.0 hyocholic acid <-->,0,HMR_10087,0,1000
+-1.0 tauro-omega-muricholic acid <-->,0,HMR_10088,0,1000
+-1.0 tauro-beta-muricholic acid <-->,0,HMR_10089,0,1000
+-1.0 murideoxycholic acid <-->,0,HMR_10090,0,1000
+-1.0 taurodehydrocholic acid <-->,0,HMR_10091,0,1000
+-1.0 tauro-hyodeoxycholic acid <-->,0,HMR_10132,0,1000
